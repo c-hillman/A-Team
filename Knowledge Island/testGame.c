@@ -225,7 +225,9 @@ void testGetCampus(void){
 	assert(getARCs(g, "RRLRLLL") == 2);
 	assert(getARCs(g, "RRLRLLL") != 1);
 	assert(getARCs(g, "RRLRLLL") != 3);
-	assert(getARCs(g, "RRLRLLL") != 0); =
+	assert(getARCs(g, "RRLRLLL") != 0);
+
+	disposeGame(g);
 }
 
 void testGetARC(void){
@@ -279,7 +281,9 @@ void testGetARC(void){
 	assert(getARCs(g, "RRLRLLL") == 2);
 	assert(getARCs(g, "RRLRLLL") != 1);
 	assert(getARCs(g, "RRLRLLL") != 3);
-	assert(getARCs(g, "RRLRLLL") != 0);	
+	assert(getARCs(g, "RRLRLLL") != 0);
+
+	disposeGame(g);
 }
 
 void testIsLegalAction (void){
@@ -330,6 +334,8 @@ void testIsLegalAction (void){
 	// RETRAIN_STUDENTS		7
 		// 1. resources - no bonuses (3->1) 
 		// 2. resources - with own specific bonus (2->1)
+
+	disposeGame(g);
 }
 
 void testGetKPIpoints (void){
@@ -417,6 +423,8 @@ void testGetKPIpoints (void){
 	assert (getKPIpoints(g, UNI_A) == 26)
 	assert (getKPIpoints(g, UNI_B) == 46)
 	assert (getKPIpoints(g, UNI_C) == 44)
+
+	disposeGame(g);
 }
 
 void testGetARCs (void){
@@ -452,6 +460,8 @@ void testGetARCs (void){
 
 
 	assert(GetArcs(g, 0) == 0)
+
+	disposeGame(g);
 }
 
 // Cameron
@@ -487,6 +497,7 @@ void testGetGO8(void) {
 	assert(getGO8(g, UNI_A) == 2);
 
 	assert(getGO8(g, UNI_C) == 0);
+
 	disposeGame(g);
 }
 
@@ -520,6 +531,7 @@ void testGetCampuses(void) {
 	assert(getCampuses(g, UNI_A) == 2);
 
 	assert(getCampuses(g, UNI_C) == 0);
+
 	disposeGame(g);
 }
 
@@ -549,6 +561,7 @@ void testGetIPs(void) {
 	assert(getIPs(g, UNI_A) == 2);
 
 	assert(getIPs(g, UNI_C) == 0);
+
 	disposeGame(g);
 }
 
@@ -577,7 +590,8 @@ void testGetPublications(void) {
 	makeAction(g, a);
 	assert(getPublications(g, UNI_A) == 2);
 
-	assert(getPublications(g, UNI_C) == 0);	
+	assert(getPublications(g, UNI_C) == 0);
+
 	disposeGame(g);
 }
 
@@ -600,6 +614,7 @@ void testGetStudents(void) {
 	throwDice(g, 8);
 	assert(getStudents(g, UNI_C, STUDENT_MTV) == 1);
 	assert(getStudents(g, UNI_A, STUDENT_MJ) == 1);
+
 	disposeGame(g);
 }
 
@@ -618,5 +633,6 @@ void testGetExchangeRate(void) {
 	a.destination = "RR";
 	makeAction(g, a);
 	assert(getExchangeRate(g, UNI_A, STUDENT_MTV, STUDENT_MJ) == 2);
+	
 	disposeGame(g);
 }
