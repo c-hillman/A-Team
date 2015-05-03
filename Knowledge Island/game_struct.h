@@ -10,7 +10,7 @@ typedef struct _university {
 	// discipline type code corresponds to index
 	// ie. STUDENT_THD stored at students[0] etc.
 	
-	int exchange[NUMBER_OF_DISCIPLINES]
+	int exchange[NUMBER_OF_DISCIPLINES];
 	// stores whether or not (no = 0, yes = 1) a
 	// university has a special exchange rate (2 for 1)
 	// discipline type code corresponds to index

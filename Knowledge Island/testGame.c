@@ -2,10 +2,44 @@
 #include <stdlib.h>
 #include <assert.h>
 
-#include "Game.h"
 #include "game_struct.h"
+#include "Game.h"
+
+#define DEFAULT_DISCIPLINES {STUDENT_BQN, STUDENT_MMONEY, STUDENT_MJ, \
+							STUDENT_MMONEY, STUDENT_MJ, STUDENT_BPS, STUDENT_MTV, \
+							STUDENT_MTV, STUDENT_BPS,STUDENT_MTV, STUDENT_BQN, \
+							STUDENT_MJ, STUDENT_BQN, STUDENT_THD, STUDENT_MJ, \
+							STUDENT_MMONEY, STUDENT_MTV, STUDENT_BQN, STUDENT_BPS}
+#define DEFAULT_DICE {9,10,8,12,6,5,3,11,3,11,4,6,4,7,9,2,8,10,5}
+
+void testNewGame(void);
+void testDisposeGame(void);
+void testMakeAction(void);
+void testThrowDice(void);
+void testDiscipline(void);
+void testGetDiceValue(void);
+void testGetMostARCs(void);
+void testGetMostPublications(void);
+void testGetTurnNumber(void);
+void testWhoseTurn(void);
+void testGetCampus(void);
+void testGetARC(void);
+void testIsLegalAction(void);
+void testGetKPIpoints(void);
+void testGetARCs(void);
+void testGetGO8(void);
+void testGetCampuses(void);
+void testGetIPs(void);
+void testGetPublications(void);
+void testGetStudents(void);
+void testGetExchangeRate(void);
 
 int main (int argc, char *argv[]) {
+	testNewGame();
+	testDisposeGame();
+	testMakeAction();
+	testThrowDice();
+	testDiscipline();
 	testGetDiceValue();
 	testGetMostARCs();
 	testGetMostPublications();
@@ -27,11 +61,195 @@ int main (int argc, char *argv[]) {
 	return EXIT_SUCCESS;
 }
 
+// Therese
+void testNewGame(void){
+	printf("testNewGame is now started\n");
+	
+	int disciplines[] = DEFAULT_DISCIPLINES;
+	int dice[] = DEFAULT_DICE;
+	Game g;
+	
+	if (sizeof disciplines == sizeof dice) {
+		g = newGame (disciplines, dice);
+		printf("The game has been successfully created!\n");
+	} else {
+		printf("Error: The length of either disciplines or dice is wrong\n");
+	}
+	
+	disposeGame(g);
+	printf("testNewGame is passed\n");
+}
+
+void testDisposeGame(void) {
+	printf("testDisposeGame is started");
+
+	int disciplines[] = DEFAULT_DISCIPLINES;
+	int dice[] = DEFAULT_DICE;
+	Game g = newGame (disciplines, dice);
+	printf("The game has been successfully created!\n"); 
+	// need to print something, and show the address of  
+	// of what's been allocated. 
+	disposeGame(g);
+	
+	// need to print something again to show that the
+	// memory used is no longer in use. 
+	printf("The game has now been disposed of\n");
+	
+	printf("testDisposeGame is passed");
+}
+
+void testMakeAction(void) {
+	printf("testMakeAction is now started\n");	
+		
+	// "State" variables that will be updated when an action occurs
+	int kpi, campus, gO8, arc, IPs, publications, player;
+	int student_thd, student_bps, student_bqn, student_mj, student_mtv,
+		student_money;
+
+	// creating a new game
+	int disciplines[] = DEFAULT_DISCIPLINES;
+	int dice[] = DEFAULT_DICE;
+	Game g = newGame (disciplines, dice);
+	
+	// getting the current player
+	player = getWhoseTurn(g);
+	
+	// getting the current players "state" variables
+	kpi = getKPIpoints(g, player);
+	campus = getCampuses(g, player);
+	gO8 = getGO8s(g, player);
+	arc = getARC(g, player);
+	IPs = getIPs(g, player);
+	publications =  getPublications(g, player);
+	thd =  getStudents(g, player, STUDENT_THD);
+	bps =  getStudents(g, player, STUDENT_BPS);
+	bqn = getStudents(g, player, STUDENT_BQN);
+	mj = getStudents(g, player, STUDENT_MJ);
+	mtv = getStudents(g, player, STUDENT_MTV);
+	money = getStudents(g, player, STUDENT_MONEY);
+	
+	// printing the state before an action has happen.
+	printf("player %d's state: \n kpi = %d \n campus = %d \n"
+			"gO8 = %d\n arc = %d\n IPs = %d\n publications = %d\n",
+				player, kpi, campus, gO8, arc, IPs, publications);
+	printf("player %d has the following students: thd = %d\n"
+			"bps = %d\n, bqn = %d\n, mj = %d\n, mtv = %d\n, money = %d\n",
+				player, thd, bps, bqn, mj, mtv, money);
+				
+	// Getting an action from the reader to perform
+	int actionCode;
+	printf("The action you wanna do: \n");
+	scanf("%d", &actionCode);
+	
+	// doing the action
+	makeAction(g, actionCode); 
+	
+	// getting all the state variables again after the action is done
+	kpi = getKPIpoints(g, player);
+	campus = getCampuses(g, player);
+	gO8 = getGO8s(g, player);
+	arc = getARC(g, player);
+	IPs = getIPs(g, player);
+	publications =  getPublications(g, player);
+	thd =  getStudents(g, player, STUDENT_THD);
+	bps =  getStudents(g, player, STUDENT_BPS);
+	bqn = getStudents(g, player, STUDENT_BQN);
+	mj = getStudents(g, player, STUDENT_MJ);
+	mtv = getStudents(g, player, STUDENT_MTV);
+	money = getStudents(g, player, STUDENT_MONEY);
+	
+	// printing the new state: 
+	printf("player %d's state: \n kpi = %d \n campus = %d \n"
+			"gO8 = %d\n arc = %d\n IPs = %d\n publications = %d\n",
+				player, kpi, campus, gO8, arc, IPs, publications);
+	printf("player %d has the following students: thd = %d\n "
+			"bps = %d\n, bqn = %d\n, mj = %d\n, mtv = %d\n, money = %d\n",
+				player, thd, bps, bqn, mj, mtv, money);
+	
+	disposeGame(g);
+	
+	printf("testMakeAction is passed\n");
+}
+
+void testThrowDice(void) {
+	
+	printf("testThrowDice has now started\n");
+	
+	//advance the game to the next turn - the thing that should be checked.
+	int disciplines[] = DEFAULT_DISCIPLINES;
+	int dice[] = DEFAULT_DICE;
+	Game g = newGame (disciplines, dice);
+
+	// the current player, and the player after the dice has been thown,
+	// and the diceScore.
+	int playerNow, playerAfter; 
+	int diceScore;
+
+	// Getting player and printing him
+	playerNow = getWhoseTurn(g);
+	printf("The current player is: %d\n", playerNow);
+	 
+	// Getting a dice score from the user 
+	printf("Write a integer from 2-12");
+	scanf("%d", &diceScore);
+	
+	//throw the dice
+	throwDice(g, diceScore);
+	
+	// updates the player
+	playerAfter = getWhoseTurn(g);
+	
+	if (playerAfter == playerNow) {
+		printf("The game has not advanced to the next turn \n");
+		printf("PlayerNow was: %d, playerAfter is: %d\n", playerNow, playerAfter);
+	} else {
+		printf("The game has advanced to the next turn \n");
+		printf("PlayerNow was: %d, playerAfter is: %d\n", playerNow, playerAfter);
+	}
+
+	disposeGame(g);
+
+	printf("testThrowDice is passed\n");
+}
+
+void testDiscipline(void) {
+	printf("testDiscipline has now started\n"); 
+	
+	int disciplines[] = DEFAULT_DISCIPLINES;
+	int dice[] = DEFAULT_DICE;
+	Game g = newGame (disciplines, dice);
+	
+	
+	assert(getDiscipline(g, [0]) == disciplines[0]);
+	assert(getDiscipline(g, [1]) == disciplines[1]);
+	assert(getDiscipline(g, [2]) == disciplines[2]);
+	assert(getDiscipline(g, [3]) == disciplines[3]);
+	assert(getDiscipline(g, [4]) == disciplines[4]);
+	assert(getDiscipline(g, [5]) == disciplines[5]);
+	assert(getDiscipline(g, [6]) == disciplines[6]);
+	assert(getDiscipline(g, [7]) == disciplines[7]);
+	assert(getDiscipline(g, [8]) == disciplines[8]);
+	assert(getDiscipline(g, [9]) == disciplines[9]);
+	assert(getDiscipline(g, [10]) == disciplines[10]);
+	assert(getDiscipline(g, [11]) == disciplines[11]);
+	assert(getDiscipline(g, [12]) == disciplines[12]);
+	assert(getDiscipline(g, [13]) == disciplines[13]);
+	assert(getDiscipline(g, [14]) == disciplines[14]);
+	assert(getDiscipline(g, [15]) == disciplines[15]);
+	assert(getDiscipline(g, [16]) == disciplines[16]);
+	assert(getDiscipline(g, [17]) == disciplines[17]);
+	assert(getDiscipline(g, [18]) == disciplines[18]);
+	
+	disposeGame(g);
+	
+	printf("testDiscipline is passed\n");	
+}
+
 // Lucas
 void testGetDiceValue(void) {
 	int disciplines[] = DEFAULT_DISCIPLINES;
 	int dice[] = DEFAULT_DICE;
-	game g = newGame(disciplines, dice);
+	Game g = newGame(disciplines, dice);
 
 	throwDice(g, 9); //it is now player 1's turn.
 	assert(getDiceValue(0) == dice[0]); 
@@ -60,7 +278,7 @@ void testGetDiceValue(void) {
 void testGetMostARCs(void) {
 	int disciplines[] = DEFAULT_DISCIPLINES;
 	int dice[] = DEFAULT_DICE;
-	game g = newGame(disciplines, dice);
+	Game g = newGame(disciplines, dice);
 
 	throwDice(g,9); //it is now player 1 turn.
 	assert(getMostARCs(game g) == "NO_ONE"); //no one made any arc	
@@ -86,7 +304,7 @@ void testGetMostPublications(void) {
 
 	int disciplines[] = DEFAULT_DISCIPLINES;
 	int dice[] = DEFAULT_DICE;
-	game g = newGame(disciplines, dice);
+	Game g = newGame(disciplines, dice);
 	aciton a;
 
 	throwDice(g,11); //it is now player 1 turn.
@@ -129,7 +347,7 @@ void testGetMostPublications(void) {
 void testGetTurnNumber(void) {
 	int disciplines[] = DEFAULT_DISCIPLINES;
 	int dice[] = DEFAULT_DICE;
-	game g = newGame(disciplines, dice);
+	Game g = newGame(disciplines, dice);
 	assert(getTurnNumber(g) == -1);
 	throwDice(g,9); //it is now player 1's turn.
 	assert(getTurnNumber(g) == 0);
@@ -152,7 +370,7 @@ void testGetTurnNumber(void) {
 void testWhoseTurn(void) {
 	int disciplines[] = DEFAULT_DISCIPLINES;
 	int dice[] = DEFAULT_DICE;
-	game g = newGame(disciplines, dice);
+	Game g = newGame(disciplines, dice);
 
 	assert(getWhoseTurn(g) == "NO_ONE");	
 	throwDice(g,9); //it is now player 1's turn.
@@ -184,7 +402,7 @@ void testGetCampus(void){
 	
 	int disciplines[] = DEFAULT_DISCIPLINES;
 	int dice[] = DEFAULT_DICE;
-	game g = newGame(disciplines, dice);
+	Game g = newGame(disciplines, dice);
 	throwDice(g, 7); // it is now player 1's turn.
 
 	//starting arcs surrounding campuses checked anti-clockwise
@@ -241,7 +459,7 @@ void testGetARC(void){
 	
 	int disciplines[] = DEFAULT_DISCIPLINES;
 	int dice[] = DEFAULT_DICE;
-	game g = newGame(disciplines, dice);
+	Game g = newGame(disciplines, dice);
 	throwDice(g, 7); // it is now player 1's turn.
 
 	//starting arcs surrounding campuses checked anti-clockwise 
@@ -289,7 +507,7 @@ void testGetARC(void){
 void testIsLegalAction (void){
 	int disciplines[] = DEFAULT_DISCIPLINES;
 	int dice[] = DEFAULT_DICE;
-	game g = newGame(disciplines, dice);
+	Game g = newGame(disciplines, dice);
 
 	// Before game - nothing is legal
 	assert(isLegalAction(g, 0) == 0)
@@ -341,7 +559,7 @@ void testIsLegalAction (void){
 void testGetKPIpoints (void){
 	int disciplines[] = DEFAULT_DISCIPLINES;
 	int dice[] = DEFAULT_DICE;
-	game g = newGame(disciplines, dice);
+	Game g = newGame(disciplines, dice);
 
 	//all players
 	assert (getKPIpoints(g, UNI_A) == 0)
@@ -430,7 +648,7 @@ void testGetKPIpoints (void){
 void testGetARCs (void){
 	int disciplines[] = DEFAULT_DISCIPLINES;
 	int dice[] = DEFAULT_DICE;
-	game g = newGame(disciplines, dice);
+	Game g = newGame(disciplines, dice);
 
 	throwDice(g, 7); // it is now player 1's turn.
  
@@ -468,7 +686,7 @@ void testGetARCs (void){
 void testGetGO8(void) {
 	int disciplines[] = DEFAULT_DISCIPLINES;
 	int dice[] = DEFAULT_DICE;
-	game g = newGame(disciplines, dice);
+	Game g = newGame(disciplines, dice);
 
 	throwDice(g, 7); // it is now player 1's turn.
 
@@ -504,7 +722,7 @@ void testGetGO8(void) {
 void testGetCampuses(void) {
 	int disciplines[] = DEFAULT_DISCIPLINES;
 	int dice[] = DEFAULT_DICE;
-	game g = newGame(disciplines, dice);
+	Game g = newGame(disciplines, dice);
 
 	throwDice(g, 7); // it is now player 1's turn.
 
@@ -538,7 +756,7 @@ void testGetCampuses(void) {
 void testGetIPs(void) {
 	int disciplines[] = DEFAULT_DISCIPLINES;
 	int dice[] = DEFAULT_DICE;
-	game g = newGame(disciplines, dice);
+	Game g = newGame(disciplines, dice);
 
 	throwDice(g, 7); // it is now player 1's turn.
 
@@ -568,7 +786,7 @@ void testGetIPs(void) {
 void testGetPublications(void) {
 	int disciplines[] = DEFAULT_DISCIPLINES;
 	int dice[] = DEFAULT_DICE;
-	game g = newGame(disciplines, dice);
+	Game g = newGame(disciplines, dice);
 
 	throwDice(g, 7); // it is now player 1's turn.
 
@@ -598,7 +816,7 @@ void testGetPublications(void) {
 void testGetStudents(void) {
 	int disciplines[] = DEFAULT_DISCIPLINES;
 	int dice[] = DEFAULT_DICE;
-	game g = newGame(disciplines, dice);
+	Game g = newGame(disciplines, dice);
 
 	throwDice(g, 11); // rolling an 11 gives player 1 an MTV
 	assert(getStudents(g, UNI_A, STUDENT_MTV) == 1);
@@ -621,7 +839,7 @@ void testGetStudents(void) {
 void testGetExchangeRate(void) {
 	int disciplines[] = DEFAULT_DISCIPLINES;
 	int dice[] = DEFAULT_DICE;
-	game g = newGame(disciplines, dice);
+	Game g = newGame(disciplines, dice);
 
 	throwDice(g, 7);
 	assert(getExchangeRate(g, UNI_A, STUDENT_MTV, STUDENT_MJ) == 3);
