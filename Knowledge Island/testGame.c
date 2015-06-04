@@ -284,7 +284,7 @@ void testGetMostARCs(void) {
 	assert(getMostARCs(game g) == "NO_ONE"); //no one made any arc	
 	action a;
 	a.actionCode = OBTAIN_ARC;
-	a.destination = "R";
+	strcpy(a.destination, "R");
 	makeAction(g, action a);
 	assert(getMostARCs(g) == 1);
 
@@ -313,7 +313,7 @@ void testGetMostPublications(void) {
 	a.destinaion = "R";
 	makeAction(g, a);	
 
-	a.destination = "RL";
+	strcpy(a.destination, "RL");
 	makeAction(g, a);  // Builds 2 arcs to be able to build a campus  in a purple spot
 
 	a.actionCode = BUILD_CAMPUS;
@@ -417,11 +417,11 @@ void testGetCampus(void){
 		//Player 1 makes an Arc
 	action a;
 	a.actionCode = BUILD_ARC;
-	a.destination = "RL";
+	strcpy(a.destination, "RL");
 	makeAction(g, a);
 	
 	a.actionCode = BUILD_CAMPUS;
-	a.destination = "RL";
+	strcpy(a.destination, "RL");
 	makeAction(g, a);
 	
 	assert(getARC(g, "RL") == 1);
@@ -433,11 +433,11 @@ void testGetCampus(void){
 
 	//player 2 makes an Arc
 	a.actionCode = BUILD_ARC;
-	a.destination = "RRLRLLL";
+	strcpy(a.destination, "RRLRLLL");
 	makeAction(g, a);
 
 	a.actionCode = BUILD_CAMPUS;
-	a.destination = "RRLRLLL";
+	strcpy(a.destination, "RRLRLLL");
 	makeAction(g, a);
 	
 	assert(getARCs(g, "RRLRLLL") == 2);
@@ -485,7 +485,7 @@ void testGetARC(void){
 	//Who gets the made arc?
 	action a;
 	a.actionCode = BUILD_ARC;
-	a.destination = "RL";
+	strcpy(a.destination, "RL");
 	makeAction(g, a);
 	assert(getARC(g, "RL") == 1);
 	assert(getARC(g, "RL") != 2);
@@ -494,7 +494,7 @@ void testGetARC(void){
 
 	throwDice(g, 7); // it is now player 2's turn
 
-	a.destination = "RRLRLLL";
+	strcpy(a.destination, "RRLRLLL");
 	makeAction(g, a);
 	assert(getARCs(g, "RRLRLLL") == 2);
 	assert(getARCs(g, "RRLRLLL") != 1);
@@ -576,7 +576,7 @@ void testGetKPIpoints (void){
 	//+ARC including having most ARCs
 	action a;
 	a.actionCode = BUILD_ARC;
-	a.destination = "RL";
+	strcpy(a.destination, "RL");
 	makeAction(g, a);
 	
 	assert (getKPIpoints(g, UNI_A) == 36)
@@ -584,7 +584,7 @@ void testGetKPIpoints (void){
 	assert (getKPIpoints(g, UNI_C) == 24)
 	
 	throwDice(g, 7); // it is now player 2's turn.
-	a.destination = "RRLRLLL";
+	strcpy(a.destination, "RRLRLLL");
 	makeAction(g, a);
 	
 	assert (getKPIpoints(g, UNI_A) == 26)
@@ -593,7 +593,7 @@ void testGetKPIpoints (void){
 	
 	//+CAMPUS
 	a.actionCode = BUILD_CAMPUS;
-	a.destination = "RRLRLLL";
+	strcpy(a.destination, "RRLRLLL");
 	makeAction(g, a);	
 	
 	assert (getKPIpoints(g, UNI_A) == 26)
@@ -635,7 +635,7 @@ void testGetKPIpoints (void){
 	throwDice(g, 7); // it is now player 2's turn.
 	
 	a.actionCode = BUILD_GO8;
-	a.destination = "RRLRLLL";
+	strcpy(a.destination, "RRLRLLL");
 	makeAction(g, a);	
 	
 	assert (getKPIpoints(g, UNI_A) == 26)
@@ -654,23 +654,23 @@ void testGetARCs (void){
  
 	action a;
 	a.actionCode = BUILD_ARC;
-	a.destination = "RLR";
+	strcpy(a.destination, "RLR");
 	makeAction(g, a);
 	assert(getARCs(g, UNI_A) == 2);
  
-	a.destination = "RLRRR";
+	strcpy(a.destination, "RLRRR");
 	makeAction(g, a);
 	assert(getARCs(g, UNI_A) == 3);
  
 	throwDice(g, 7); // it is now player 2's turn
-	a.destination = "RLRLRLR";
+	strcpy(a.destination, "RLRLRLR");
 	makeAction(g, a);
 	assert(getARCs(g, UNI_B) == 2);
  
 	throwDice(g, 7);
 	
 	throwDice(g, 7); // it is now player 1's turn
-	a.destination = "RLRLRLRLRLR";
+	strcpy(a.destination, "RLRLRLRLRLR");
 	makeAction(g, a);
 	assert(getARCs(g, UNI_A) == 4);
  
@@ -692,25 +692,25 @@ void testGetGO8(void) {
 
 	action a;
 	a.actionCode = BUILD_GO8;
-	a.destination = "RLR";
+	strcpy(a.destination, "RLR");
 	makeAction(g, a);
 	// build GO8 for player 1
 	assert(getGO8(g, UNI_A) == 1);
 
-	a.destination = "RLRRR";
+	strcpy(a.destination, "RLRRR");
 	makeAction(g, a);
 	// build another GO8 for player 1
 	assert(getGO8(g, UNI_A) == 1);
 
 	throwDice(g, 7); // it is now player 2's turn
-	a.destination = "RLRLRLR";
+	strcpy(a.destination, "RLRLRLR");
 	makeAction(g, a);
 	assert(getGO8(g, UNI_B) == 1);
 
 	throwDice(g, 7);
 	
 	throwDice(g, 7); // it is now player 1's turn
-	a.destination = "RLRLRLRLRLR";
+	strcpy(a.destination, "RLRLRLRLRLR");
 	makeAction(g, a);
 	assert(getGO8(g, UNI_A) == 2);
 
@@ -728,23 +728,23 @@ void testGetCampuses(void) {
 
 	action a;
 	a.actionCode = BUILD_CAMPUS;
-	a.destination = "RLR";
+	strcpy(a.destination, "RLR");
 	makeAction(g, a);
 	assert(getCampuses(g, UNI_A) == 1);
 
-	a.destination = "RLRRR";
+	strcpy(a.destination, "RLRRR");
 	makeAction(g, a);
 	assert(getCampuses(g, UNI_A) == 1);
 
 	throwDice(g, 7); // it is now player 2's turn
-	a.destination = "RLRLRLR";
+	strcpy(a.destination, "RLRLRLR");
 	makeAction(g, a);
 	assert(getCampuses(g, UNI_B) == 1);
 
 	throwDice(g, 7);
 	
 	throwDice(g, 7); // it is now player 1's turn
-	a.destination = "RLRLRLRLRLR";
+	strcpy(a.destination, "RLRLRLRLRLR");
 	makeAction(g, a);
 	assert(getCampuses(g, UNI_A) == 2);
 
@@ -823,7 +823,7 @@ void testGetStudents(void) {
 
 	action a;
 	a.actionCode = BUILD_GO8;
-	a.destination = "";
+	strcpy(a.destination, "");
 	makeAction(g, a);
 
 	throwDice(g, 11); // rolling an 11 now gives player 1 two MTVs
@@ -848,7 +848,7 @@ void testGetExchangeRate(void) {
 
 	action a;
 	a.actionCode = BUILD_CAMPUS;
-	a.destination = "RR";
+	strcpy(a.destination, "RR");
 	makeAction(g, a);
 	assert(getExchangeRate(g, UNI_A, STUDENT_MTV, STUDENT_MJ) == 2);
 	

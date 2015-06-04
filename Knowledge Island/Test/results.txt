@@ -1,0 +1,7046 @@
+Game created! Now playing...
+
+--------------------------------------------------
+
+[Turn 0] The turn now belongs to University A!
+The dice has casted a 7!
+
+Stats for A:
+KPIs: 20
+ARCs: 0
+Campuses: 2
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 2
+Type BPS: 4
+Type BQN: 3
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+
+
+The action 'Obtain ARC' has being completed.
+ -> Destination: R
+
+Stats for A:
+KPIs: 32
+ARCs: 1
+Campuses: 2
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 2
+Type BPS: 3
+Type BQN: 2
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+
+
+The action 'Obtain ARC' has being completed.
+ -> Destination: RL
+
+Stats for A:
+KPIs: 34
+ARCs: 2
+Campuses: 2
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 2
+Type BPS: 2
+Type BQN: 1
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 1] The turn now belongs to University B!
+The dice has casted a 3!
+
+Stats for B:
+KPIs: 20
+ARCs: 0
+Campuses: 2
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 2
+Type BPS: 3
+Type BQN: 3
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+The action 'Obtain ARC' has being completed.
+ -> Destination: RRLRLL
+
+Stats for B:
+KPIs: 22
+ARCs: 1
+Campuses: 2
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 2
+Type BPS: 2
+Type BQN: 2
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+The action 'Obtain ARC' has being completed.
+ -> Destination: RRLLRR
+
+Stats for B:
+KPIs: 24
+ARCs: 2
+Campuses: 2
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 2
+Type BPS: 1
+Type BQN: 1
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 2] The turn now belongs to University C!
+The dice has casted a 5!
+
+Stats for C:
+KPIs: 20
+ARCs: 0
+Campuses: 2
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 2
+Type BPS: 3
+Type BQN: 3
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+The action 'Obtain ARC' has being completed.
+ -> Destination: LRLRL
+
+Stats for C:
+KPIs: 22
+ARCs: 1
+Campuses: 2
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 2
+Type BPS: 2
+Type BQN: 2
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+The action 'Obtain ARC' has being completed.
+ -> Destination: LRLRR
+
+Stats for C:
+KPIs: 24
+ARCs: 2
+Campuses: 2
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 2
+Type BPS: 1
+Type BQN: 1
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 3] The turn now belongs to University A!
+The dice has casted a 10!
+
+Stats for A:
+KPIs: 34
+ARCs: 2
+Campuses: 2
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 2
+Type BPS: 2
+Type BQN: 1
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 4] The turn now belongs to University B!
+The dice has casted a 10!
+
+Stats for B:
+KPIs: 24
+ARCs: 2
+Campuses: 2
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 2
+Type BPS: 1
+Type BQN: 2
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 5] The turn now belongs to University C!
+The dice has casted a 11!
+
+Stats for C:
+KPIs: 24
+ARCs: 2
+Campuses: 2
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 2
+Type BPS: 1
+Type BQN: 1
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 6] The turn now belongs to University A!
+The dice has casted a 7!
+
+Stats for A:
+KPIs: 34
+ARCs: 2
+Campuses: 2
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 2
+Type BPS: 3
+Type BQN: 1
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 7] The turn now belongs to University B!
+The dice has casted a 10!
+
+Stats for B:
+KPIs: 24
+ARCs: 2
+Campuses: 2
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 2
+Type BPS: 1
+Type BQN: 2
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 8] The turn now belongs to University C!
+The dice has casted a 8!
+
+Stats for C:
+KPIs: 24
+ARCs: 2
+Campuses: 2
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 2
+Type BPS: 2
+Type BQN: 2
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 9] The turn now belongs to University A!
+The dice has casted a 3!
+
+Stats for A:
+KPIs: 34
+ARCs: 2
+Campuses: 2
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 2
+Type BPS: 3
+Type BQN: 1
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 10] The turn now belongs to University B!
+The dice has casted a 6!
+
+Stats for B:
+KPIs: 24
+ARCs: 2
+Campuses: 2
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 2
+Type BPS: 1
+Type BQN: 2
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 11] The turn now belongs to University C!
+The dice has casted a 3!
+
+Stats for C:
+KPIs: 24
+ARCs: 2
+Campuses: 2
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 2
+Type BPS: 2
+Type BQN: 2
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 12] The turn now belongs to University A!
+The dice has casted a 8!
+
+Stats for A:
+KPIs: 34
+ARCs: 2
+Campuses: 2
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 2
+Type BPS: 3
+Type BQN: 2
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 13] The turn now belongs to University B!
+The dice has casted a 9!
+
+Stats for B:
+KPIs: 24
+ARCs: 2
+Campuses: 2
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 2
+Type BPS: 2
+Type BQN: 2
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 14] The turn now belongs to University C!
+The dice has casted a 5!
+
+Stats for C:
+KPIs: 24
+ARCs: 2
+Campuses: 2
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 2
+Type BPS: 3
+Type BQN: 3
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 15] The turn now belongs to University A!
+The dice has casted a 5!
+
+Stats for A:
+KPIs: 34
+ARCs: 2
+Campuses: 2
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 2
+Type BPS: 3
+Type BQN: 2
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 16] The turn now belongs to University B!
+The dice has casted a 2!
+
+Stats for B:
+KPIs: 24
+ARCs: 2
+Campuses: 2
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 2
+Type BPS: 2
+Type BQN: 4
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 4
+ -> DisciplineFrom: 2
+
+Stats for B:
+KPIs: 24
+ARCs: 2
+Campuses: 2
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 2
+Type BPS: 2
+Type BQN: 1
+Type MJobs: 1
+Type MTV: 1
+Type M$: 0
+
+The action 'Build Campus' has being completed.
+ -> Destination: RRLLR
+
+Stats for B:
+KPIs: 34
+ARCs: 2
+Campuses: 3
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 2
+Type BPS: 1
+Type BQN: 0
+Type MJobs: 0
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 17] The turn now belongs to University C!
+The dice has casted a 5!
+
+Stats for C:
+KPIs: 24
+ARCs: 2
+Campuses: 2
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 2
+Type BPS: 3
+Type BQN: 3
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 18] The turn now belongs to University A!
+The dice has casted a 4!
+
+Stats for A:
+KPIs: 34
+ARCs: 2
+Campuses: 2
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 2
+Type BPS: 3
+Type BQN: 2
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 19] The turn now belongs to University B!
+The dice has casted a 7!
+
+Stats for B:
+KPIs: 34
+ARCs: 2
+Campuses: 3
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 2
+Type BPS: 1
+Type BQN: 1
+Type MJobs: 0
+Type MTV: 0
+Type M$: 0
+
+The action 'Obtain ARC' has being completed.
+ -> Destination: LRLRLRRLRL
+
+Stats for B:
+KPIs: 46
+ARCs: 3
+Campuses: 3
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 2
+Type BPS: 0
+Type BQN: 0
+Type MJobs: 0
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 20] The turn now belongs to University C!
+The dice has casted a 5!
+
+Stats for C:
+KPIs: 24
+ARCs: 2
+Campuses: 2
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 2
+Type BPS: 3
+Type BQN: 3
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 21] The turn now belongs to University A!
+The dice has casted a 11!
+
+Stats for A:
+KPIs: 24
+ARCs: 2
+Campuses: 2
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 2
+Type BPS: 4
+Type BQN: 2
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 4
+ -> DisciplineFrom: 1
+
+Stats for A:
+KPIs: 24
+ARCs: 2
+Campuses: 2
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 2
+Type BPS: 1
+Type BQN: 2
+Type MJobs: 1
+Type MTV: 1
+Type M$: 0
+
+
+
+The action 'Obtain ARC' has being completed.
+ -> Destination: LRRLRLRLRLR
+
+Stats for A:
+KPIs: 26
+ARCs: 3
+Campuses: 2
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 2
+Type BPS: 0
+Type BQN: 1
+Type MJobs: 1
+Type MTV: 1
+Type M$: 0
+
+
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 22] The turn now belongs to University B!
+The dice has casted a 5!
+
+Stats for B:
+KPIs: 46
+ARCs: 3
+Campuses: 3
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 2
+Type BPS: 0
+Type BQN: 2
+Type MJobs: 0
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 23] The turn now belongs to University C!
+The dice has casted a 7!
+
+Stats for C:
+KPIs: 24
+ARCs: 2
+Campuses: 2
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 2
+Type BPS: 3
+Type BQN: 3
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 24] The turn now belongs to University A!
+The dice has casted a 5!
+
+Stats for A:
+KPIs: 26
+ARCs: 3
+Campuses: 2
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 3
+Type BPS: 1
+Type BQN: 1
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 25] The turn now belongs to University B!
+The dice has casted a 7!
+
+Stats for B:
+KPIs: 46
+ARCs: 3
+Campuses: 3
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 2
+Type BPS: 0
+Type BQN: 3
+Type MJobs: 0
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 26] The turn now belongs to University C!
+The dice has casted a 8!
+
+Stats for C:
+KPIs: 24
+ARCs: 2
+Campuses: 2
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 2
+Type BPS: 4
+Type BQN: 4
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 4
+ -> DisciplineFrom: 1
+
+Stats for C:
+KPIs: 24
+ARCs: 2
+Campuses: 2
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 2
+Type BPS: 1
+Type BQN: 4
+Type MJobs: 1
+Type MTV: 1
+Type M$: 0
+
+The action 'Build Campus' has being completed.
+ -> Destination: LRLRR
+
+Stats for C:
+KPIs: 34
+ARCs: 2
+Campuses: 3
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 2
+Type BPS: 0
+Type BQN: 3
+Type MJobs: 0
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 27] The turn now belongs to University A!
+The dice has casted a 10!
+
+Stats for A:
+KPIs: 26
+ARCs: 3
+Campuses: 2
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 3
+Type BPS: 2
+Type BQN: 1
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 28] The turn now belongs to University B!
+The dice has casted a 8!
+
+Stats for B:
+KPIs: 46
+ARCs: 3
+Campuses: 3
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 2
+Type BPS: 0
+Type BQN: 3
+Type MJobs: 0
+Type MTV: 0
+Type M$: 1
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 29] The turn now belongs to University C!
+The dice has casted a 9!
+
+Stats for C:
+KPIs: 34
+ARCs: 2
+Campuses: 3
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 3
+Type BPS: 1
+Type BQN: 5
+Type MJobs: 0
+Type MTV: 0
+Type M$: 0
+
+The action 'Obtain ARC' has being completed.
+ -> Destination: RRLLRLRLRR
+
+Stats for C:
+KPIs: 36
+ARCs: 3
+Campuses: 3
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 3
+Type BPS: 0
+Type BQN: 4
+Type MJobs: 0
+Type MTV: 0
+Type M$: 0
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 1
+ -> DisciplineFrom: 2
+
+Stats for C:
+KPIs: 36
+ARCs: 3
+Campuses: 3
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 3
+Type BPS: 1
+Type BQN: 1
+Type MJobs: 0
+Type MTV: 0
+Type M$: 0
+
+The action 'Obtain ARC' has being completed.
+ -> Destination: RRLLRLRLR
+
+Stats for C:
+KPIs: 48
+ARCs: 4
+Campuses: 3
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 3
+Type BPS: 0
+Type BQN: 0
+Type MJobs: 0
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 30] The turn now belongs to University A!
+The dice has casted a 3!
+
+Stats for A:
+KPIs: 26
+ARCs: 3
+Campuses: 2
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 3
+Type BPS: 2
+Type BQN: 1
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 31] The turn now belongs to University B!
+The dice has casted a 10!
+
+Stats for B:
+KPIs: 36
+ARCs: 3
+Campuses: 3
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 2
+Type BPS: 2
+Type BQN: 3
+Type MJobs: 0
+Type MTV: 0
+Type M$: 2
+
+The action 'Obtain ARC' has being completed.
+ -> Destination: LRLRRLRLL
+
+Stats for B:
+KPIs: 38
+ARCs: 4
+Campuses: 3
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 2
+Type BPS: 1
+Type BQN: 2
+Type MJobs: 0
+Type MTV: 0
+Type M$: 2
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 32] The turn now belongs to University C!
+The dice has casted a 4!
+
+Stats for C:
+KPIs: 48
+ARCs: 4
+Campuses: 3
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 3
+Type BPS: 0
+Type BQN: 1
+Type MJobs: 0
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 33] The turn now belongs to University A!
+The dice has casted a 5!
+
+Stats for A:
+KPIs: 26
+ARCs: 3
+Campuses: 2
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 3
+Type BPS: 2
+Type BQN: 1
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 34] The turn now belongs to University B!
+The dice has casted a 4!
+
+Stats for B:
+KPIs: 38
+ARCs: 4
+Campuses: 3
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 2
+Type BPS: 1
+Type BQN: 3
+Type MJobs: 0
+Type MTV: 0
+Type M$: 2
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 35] The turn now belongs to University C!
+The dice has casted a 3!
+
+Stats for C:
+KPIs: 48
+ARCs: 4
+Campuses: 3
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 3
+Type BPS: 0
+Type BQN: 2
+Type MJobs: 0
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 36] The turn now belongs to University A!
+The dice has casted a 3!
+
+Stats for A:
+KPIs: 26
+ARCs: 3
+Campuses: 2
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 3
+Type BPS: 2
+Type BQN: 1
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 37] The turn now belongs to University B!
+The dice has casted a 7!
+
+Stats for B:
+KPIs: 38
+ARCs: 4
+Campuses: 3
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 4
+Type BPS: 1
+Type BQN: 3
+Type MJobs: 0
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 38] The turn now belongs to University C!
+The dice has casted a 5!
+
+Stats for C:
+KPIs: 48
+ARCs: 4
+Campuses: 3
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 3
+Type BPS: 0
+Type BQN: 2
+Type MJobs: 0
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 39] The turn now belongs to University A!
+The dice has casted a 7!
+
+Stats for A:
+KPIs: 26
+ARCs: 3
+Campuses: 2
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 3
+Type BPS: 4
+Type BQN: 1
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 4
+ -> DisciplineFrom: 1
+
+Stats for A:
+KPIs: 26
+ARCs: 3
+Campuses: 2
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 3
+Type BPS: 1
+Type BQN: 1
+Type MJobs: 1
+Type MTV: 1
+Type M$: 0
+
+
+
+The action 'Build Campus' has being completed.
+ -> Destination: RL
+
+Stats for A:
+KPIs: 36
+ARCs: 3
+Campuses: 3
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 3
+Type BPS: 0
+Type BQN: 0
+Type MJobs: 0
+Type MTV: 0
+Type M$: 0
+
+
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 40] The turn now belongs to University B!
+The dice has casted a 9!
+
+Stats for B:
+KPIs: 38
+ARCs: 4
+Campuses: 3
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 4
+Type BPS: 3
+Type BQN: 4
+Type MJobs: 0
+Type MTV: 0
+Type M$: 0
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 3
+ -> DisciplineFrom: 2
+
+Stats for B:
+KPIs: 38
+ARCs: 4
+Campuses: 3
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 4
+Type BPS: 3
+Type BQN: 1
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 41] The turn now belongs to University C!
+The dice has casted a 7!
+
+Stats for C:
+KPIs: 48
+ARCs: 4
+Campuses: 3
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 4
+Type BPS: 0
+Type BQN: 2
+Type MJobs: 0
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 42] The turn now belongs to University A!
+The dice has casted a 4!
+
+Stats for A:
+KPIs: 36
+ARCs: 3
+Campuses: 3
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 3
+Type BPS: 2
+Type BQN: 0
+Type MJobs: 0
+Type MTV: 0
+Type M$: 0
+
+
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 43] The turn now belongs to University B!
+The dice has casted a 6!
+
+Stats for B:
+KPIs: 38
+ARCs: 4
+Campuses: 3
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 4
+Type BPS: 3
+Type BQN: 1
+Type MJobs: 2
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 44] The turn now belongs to University C!
+The dice has casted a 9!
+
+Stats for C:
+KPIs: 48
+ARCs: 4
+Campuses: 3
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 5
+Type BPS: 0
+Type BQN: 3
+Type MJobs: 0
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 45] The turn now belongs to University A!
+The dice has casted a 4!
+
+Stats for A:
+KPIs: 36
+ARCs: 3
+Campuses: 3
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 3
+Type BPS: 2
+Type BQN: 1
+Type MJobs: 0
+Type MTV: 0
+Type M$: 0
+
+
+
+The action 'Obtain ARC' has being completed.
+ -> Destination: LRRLRLRLRL
+
+Stats for A:
+KPIs: 38
+ARCs: 4
+Campuses: 3
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 3
+Type BPS: 1
+Type BQN: 0
+Type MJobs: 0
+Type MTV: 0
+Type M$: 0
+
+
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 46] The turn now belongs to University B!
+The dice has casted a 6!
+
+Stats for B:
+KPIs: 38
+ARCs: 4
+Campuses: 3
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 4
+Type BPS: 5
+Type BQN: 1
+Type MJobs: 3
+Type MTV: 0
+Type M$: 0
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 4
+ -> DisciplineFrom: 1
+
+Stats for B:
+KPIs: 38
+ARCs: 4
+Campuses: 3
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 4
+Type BPS: 2
+Type BQN: 1
+Type MJobs: 3
+Type MTV: 1
+Type M$: 0
+
+The action 'Build Campus' has being completed.
+ -> Destination: LRLRRLRL
+
+Stats for B:
+KPIs: 48
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 4
+Type BPS: 1
+Type BQN: 0
+Type MJobs: 2
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 47] The turn now belongs to University C!
+The dice has casted a 4!
+
+Stats for C:
+KPIs: 48
+ARCs: 4
+Campuses: 3
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 5
+Type BPS: 0
+Type BQN: 5
+Type MJobs: 0
+Type MTV: 0
+Type M$: 0
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 1
+ -> DisciplineFrom: 2
+
+Stats for C:
+KPIs: 48
+ARCs: 4
+Campuses: 3
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 5
+Type BPS: 1
+Type BQN: 2
+Type MJobs: 0
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 48] The turn now belongs to University A!
+The dice has casted a 7!
+
+Stats for A:
+KPIs: 38
+ARCs: 4
+Campuses: 3
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 3
+Type BPS: 3
+Type BQN: 1
+Type MJobs: 0
+Type MTV: 0
+Type M$: 0
+
+
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 49] The turn now belongs to University B!
+The dice has casted a 6!
+
+Stats for B:
+KPIs: 48
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 4
+Type BPS: 1
+Type BQN: 0
+Type MJobs: 3
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 50] The turn now belongs to University C!
+The dice has casted a 6!
+
+Stats for C:
+KPIs: 48
+ARCs: 4
+Campuses: 3
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 5
+Type BPS: 1
+Type BQN: 2
+Type MJobs: 0
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 51] The turn now belongs to University A!
+The dice has casted a 8!
+
+Stats for A:
+KPIs: 38
+ARCs: 4
+Campuses: 3
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 3
+Type BPS: 3
+Type BQN: 3
+Type MJobs: 0
+Type MTV: 0
+Type M$: 0
+
+
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 52] The turn now belongs to University B!
+The dice has casted a 7!
+
+Stats for B:
+KPIs: 48
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 4
+Type BPS: 1
+Type BQN: 0
+Type MJobs: 4
+Type MTV: 0
+Type M$: 0
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 4
+ -> DisciplineFrom: 3
+
+Stats for B:
+KPIs: 48
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 4
+Type BPS: 1
+Type BQN: 0
+Type MJobs: 1
+Type MTV: 1
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 53] The turn now belongs to University C!
+The dice has casted a 7!
+
+Stats for C:
+KPIs: 48
+ARCs: 4
+Campuses: 3
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 5
+Type BPS: 2
+Type BQN: 4
+Type MJobs: 0
+Type MTV: 0
+Type M$: 0
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 3
+ -> DisciplineFrom: 2
+
+Stats for C:
+KPIs: 48
+ARCs: 4
+Campuses: 3
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 5
+Type BPS: 2
+Type BQN: 1
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 54] The turn now belongs to University A!
+The dice has casted a 8!
+
+Stats for A:
+KPIs: 38
+ARCs: 4
+Campuses: 3
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 3
+Type BPS: 7
+Type BQN: 3
+Type MJobs: 0
+Type MTV: 0
+Type M$: 0
+
+
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 3
+ -> DisciplineFrom: 1
+
+Stats for A:
+KPIs: 38
+ARCs: 4
+Campuses: 3
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 3
+Type BPS: 4
+Type BQN: 3
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 4
+ -> DisciplineFrom: 1
+
+Stats for A:
+KPIs: 38
+ARCs: 4
+Campuses: 3
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 3
+Type BPS: 1
+Type BQN: 3
+Type MJobs: 1
+Type MTV: 1
+Type M$: 0
+
+
+
+The action 'Build Campus' has being completed.
+ -> Destination: LRRLRLRLR
+
+Stats for A:
+KPIs: 48
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 3
+Type BPS: 0
+Type BQN: 2
+Type MJobs: 0
+Type MTV: 0
+Type M$: 0
+
+
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 55] The turn now belongs to University B!
+The dice has casted a 5!
+
+Stats for B:
+KPIs: 48
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 5
+Type BPS: 1
+Type BQN: 2
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 56] The turn now belongs to University C!
+The dice has casted a 5!
+
+Stats for C:
+KPIs: 48
+ARCs: 4
+Campuses: 3
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 5
+Type BPS: 3
+Type BQN: 3
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 57] The turn now belongs to University A!
+The dice has casted a 3!
+
+Stats for A:
+KPIs: 48
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 3
+Type BPS: 1
+Type BQN: 2
+Type MJobs: 0
+Type MTV: 0
+Type M$: 0
+
+
+
+The action 'Obtain ARC' has being completed.
+ -> Destination: LRRLRLRLR
+
+Stats for A:
+KPIs: 60
+ARCs: 5
+Campuses: 4
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 3
+Type BPS: 0
+Type BQN: 1
+Type MJobs: 0
+Type MTV: 0
+Type M$: 0
+
+
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 58] The turn now belongs to University B!
+The dice has casted a 7!
+
+Stats for B:
+KPIs: 48
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 5
+Type BPS: 1
+Type BQN: 4
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 4
+ -> DisciplineFrom: 2
+
+Stats for B:
+KPIs: 48
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 5
+Type BPS: 1
+Type BQN: 1
+Type MJobs: 1
+Type MTV: 1
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 59] The turn now belongs to University C!
+The dice has casted a 9!
+
+Stats for C:
+KPIs: 38
+ARCs: 4
+Campuses: 3
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 6
+Type BPS: 3
+Type BQN: 3
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 60] The turn now belongs to University A!
+The dice has casted a 6!
+
+Stats for A:
+KPIs: 60
+ARCs: 5
+Campuses: 4
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 3
+Type BPS: 2
+Type BQN: 3
+Type MJobs: 0
+Type MTV: 0
+Type M$: 0
+
+
+
+The action 'Obtain ARC' has being completed.
+ -> Destination: LRRLRLRL
+
+Stats for A:
+KPIs: 62
+ARCs: 6
+Campuses: 4
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 3
+Type BPS: 1
+Type BQN: 2
+Type MJobs: 0
+Type MTV: 0
+Type M$: 0
+
+
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 61] The turn now belongs to University B!
+The dice has casted a 8!
+
+Stats for B:
+KPIs: 48
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 5
+Type BPS: 3
+Type BQN: 1
+Type MJobs: 3
+Type MTV: 1
+Type M$: 0
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 5
+ -> DisciplineFrom: 1
+
+Stats for B:
+KPIs: 48
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 5
+Type BPS: 0
+Type BQN: 1
+Type MJobs: 3
+Type MTV: 1
+Type M$: 1
+
+The action 'Start Spinoff' has being completed.
+
+Stats for B:
+KPIs: 58
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 0
+Patents: 1
+Type ThD: 5
+Type BPS: 0
+Type BQN: 1
+Type MJobs: 2
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 62] The turn now belongs to University C!
+The dice has casted a 7!
+
+Stats for C:
+KPIs: 38
+ARCs: 4
+Campuses: 3
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 6
+Type BPS: 4
+Type BQN: 5
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 4
+ -> DisciplineFrom: 2
+
+Stats for C:
+KPIs: 38
+ARCs: 4
+Campuses: 3
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 6
+Type BPS: 4
+Type BQN: 2
+Type MJobs: 1
+Type MTV: 1
+Type M$: 0
+
+The action 'Build Campus' has being completed.
+ -> Destination: RRLLRLRL
+
+Stats for C:
+KPIs: 48
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 6
+Type BPS: 3
+Type BQN: 1
+Type MJobs: 0
+Type MTV: 0
+Type M$: 0
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 3
+ -> DisciplineFrom: 1
+
+Stats for C:
+KPIs: 48
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 6
+Type BPS: 0
+Type BQN: 1
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 63] The turn now belongs to University A!
+The dice has casted a 6!
+
+Stats for A:
+KPIs: 62
+ARCs: 6
+Campuses: 4
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 3
+Type BPS: 3
+Type BQN: 4
+Type MJobs: 0
+Type MTV: 0
+Type M$: 0
+
+
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 3
+ -> DisciplineFrom: 2
+
+Stats for A:
+KPIs: 62
+ARCs: 6
+Campuses: 4
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 3
+Type BPS: 3
+Type BQN: 1
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 64] The turn now belongs to University B!
+The dice has casted a 7!
+
+Stats for B:
+KPIs: 58
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 0
+Patents: 1
+Type ThD: 5
+Type BPS: 0
+Type BQN: 1
+Type MJobs: 3
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 65] The turn now belongs to University C!
+The dice has casted a 7!
+
+Stats for C:
+KPIs: 48
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 6
+Type BPS: 0
+Type BQN: 1
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 66] The turn now belongs to University A!
+The dice has casted a 8!
+
+Stats for A:
+KPIs: 62
+ARCs: 6
+Campuses: 4
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 3
+Type BPS: 7
+Type BQN: 1
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 4
+ -> DisciplineFrom: 1
+
+Stats for A:
+KPIs: 62
+ARCs: 6
+Campuses: 4
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 3
+Type BPS: 4
+Type BQN: 1
+Type MJobs: 1
+Type MTV: 1
+Type M$: 0
+
+
+
+The action 'Build Campus' has being completed.
+ -> Destination: LRRLRLR
+
+Stats for A:
+KPIs: 72
+ARCs: 6
+Campuses: 5
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 3
+Type BPS: 3
+Type BQN: 0
+Type MJobs: 0
+Type MTV: 0
+Type M$: 0
+
+
+LRRLRLR
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 67] The turn now belongs to University B!
+The dice has casted a 6!
+
+Stats for B:
+KPIs: 58
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 0
+Patents: 1
+Type ThD: 5
+Type BPS: 0
+Type BQN: 1
+Type MJobs: 4
+Type MTV: 0
+Type M$: 0
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 4
+ -> DisciplineFrom: 3
+
+Stats for B:
+KPIs: 58
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 0
+Patents: 1
+Type ThD: 5
+Type BPS: 0
+Type BQN: 1
+Type MJobs: 1
+Type MTV: 1
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 68] The turn now belongs to University C!
+The dice has casted a 8!
+
+Stats for C:
+KPIs: 48
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 6
+Type BPS: 4
+Type BQN: 5
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 4
+ -> DisciplineFrom: 2
+
+Stats for C:
+KPIs: 48
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 6
+Type BPS: 4
+Type BQN: 2
+Type MJobs: 1
+Type MTV: 1
+Type M$: 0
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 5
+ -> DisciplineFrom: 1
+
+Stats for C:
+KPIs: 48
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 6
+Type BPS: 1
+Type BQN: 2
+Type MJobs: 1
+Type MTV: 1
+Type M$: 1
+
+The action 'Start Spinoff' has being completed.
+
+Stats for C:
+KPIs: 58
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 0
+Patents: 1
+Type ThD: 6
+Type BPS: 1
+Type BQN: 2
+Type MJobs: 0
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 69] The turn now belongs to University A!
+The dice has casted a 10!
+
+Stats for A:
+KPIs: 72
+ARCs: 6
+Campuses: 5
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 3
+Type BPS: 3
+Type BQN: 2
+Type MJobs: 0
+Type MTV: 0
+Type M$: 0
+
+
+LRRLRLR
+The action 'Obtain ARC' has being completed.
+ -> Destination: RLR
+
+Stats for A:
+KPIs: 74
+ARCs: 7
+Campuses: 5
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 3
+Type BPS: 2
+Type BQN: 1
+Type MJobs: 0
+Type MTV: 0
+Type M$: 0
+
+
+LRRLRLR
+The action 'Obtain ARC' has being completed.
+ -> Destination: RLRL
+
+Stats for A:
+KPIs: 76
+ARCs: 8
+Campuses: 5
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 3
+Type BPS: 1
+Type BQN: 0
+Type MJobs: 0
+Type MTV: 0
+Type M$: 0
+
+
+LRRLRLR
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 70] The turn now belongs to University B!
+The dice has casted a 8!
+
+Stats for B:
+KPIs: 58
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 0
+Patents: 1
+Type ThD: 5
+Type BPS: 0
+Type BQN: 2
+Type MJobs: 1
+Type MTV: 1
+Type M$: 1
+
+The action 'Start Spinoff' has being completed.
+
+Stats for B:
+KPIs: 68
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 0
+Patents: 2
+Type ThD: 5
+Type BPS: 0
+Type BQN: 2
+Type MJobs: 0
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 71] The turn now belongs to University C!
+The dice has casted a 4!
+
+Stats for C:
+KPIs: 58
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 0
+Patents: 1
+Type ThD: 6
+Type BPS: 3
+Type BQN: 5
+Type MJobs: 0
+Type MTV: 0
+Type M$: 0
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 3
+ -> DisciplineFrom: 2
+
+Stats for C:
+KPIs: 58
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 0
+Patents: 1
+Type ThD: 6
+Type BPS: 3
+Type BQN: 2
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 4
+ -> DisciplineFrom: 1
+
+Stats for C:
+KPIs: 58
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 0
+Patents: 1
+Type ThD: 6
+Type BPS: 0
+Type BQN: 2
+Type MJobs: 1
+Type MTV: 1
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 72] The turn now belongs to University A!
+The dice has casted a 7!
+
+Stats for A:
+KPIs: 76
+ARCs: 8
+Campuses: 5
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 3
+Type BPS: 3
+Type BQN: 2
+Type MJobs: 0
+Type MTV: 0
+Type M$: 0
+
+
+LRRLRLR
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 73] The turn now belongs to University B!
+The dice has casted a 6!
+
+Stats for B:
+KPIs: 68
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 0
+Patents: 2
+Type ThD: 5
+Type BPS: 0
+Type BQN: 2
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 74] The turn now belongs to University C!
+The dice has casted a 8!
+
+Stats for C:
+KPIs: 58
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 0
+Patents: 1
+Type ThD: 7
+Type BPS: 2
+Type BQN: 4
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 4
+ -> DisciplineFrom: 2
+
+Stats for C:
+KPIs: 58
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 0
+Patents: 1
+Type ThD: 7
+Type BPS: 2
+Type BQN: 1
+Type MJobs: 1
+Type MTV: 1
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 75] The turn now belongs to University A!
+The dice has casted a 9!
+
+Stats for A:
+KPIs: 76
+ARCs: 8
+Campuses: 5
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 3
+Type BPS: 3
+Type BQN: 4
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+
+LRRLRLR
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 4
+ -> DisciplineFrom: 2
+
+Stats for A:
+KPIs: 76
+ARCs: 8
+Campuses: 5
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 3
+Type BPS: 3
+Type BQN: 1
+Type MJobs: 1
+Type MTV: 1
+Type M$: 0
+
+
+LRRLRLR
+The action 'Build Campus' has being completed.
+ -> Destination: RLRL
+
+Stats for A:
+KPIs: 86
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 3
+Type BPS: 2
+Type BQN: 0
+Type MJobs: 0
+Type MTV: 0
+Type M$: 0
+
+
+RLRLRLR
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 76] The turn now belongs to University B!
+The dice has casted a 5!
+
+Stats for B:
+KPIs: 68
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 0
+Patents: 2
+Type ThD: 5
+Type BPS: 2
+Type BQN: 4
+Type MJobs: 2
+Type MTV: 0
+Type M$: 0
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 4
+ -> DisciplineFrom: 2
+
+Stats for B:
+KPIs: 68
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 0
+Patents: 2
+Type ThD: 5
+Type BPS: 2
+Type BQN: 1
+Type MJobs: 2
+Type MTV: 1
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 77] The turn now belongs to University C!
+The dice has casted a 11!
+
+Stats for C:
+KPIs: 58
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 0
+Patents: 1
+Type ThD: 8
+Type BPS: 3
+Type BQN: 1
+Type MJobs: 1
+Type MTV: 1
+Type M$: 0
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 5
+ -> DisciplineFrom: 1
+
+Stats for C:
+KPIs: 58
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 0
+Patents: 1
+Type ThD: 8
+Type BPS: 0
+Type BQN: 1
+Type MJobs: 1
+Type MTV: 1
+Type M$: 1
+
+The action 'Start Spinoff' has being completed.
+
+Stats for C:
+KPIs: 68
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 1
+Patents: 1
+Type ThD: 8
+Type BPS: 0
+Type BQN: 1
+Type MJobs: 0
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 78] The turn now belongs to University A!
+The dice has casted a 5!
+
+Stats for A:
+KPIs: 86
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 3
+Type BPS: 2
+Type BQN: 0
+Type MJobs: 0
+Type MTV: 2
+Type M$: 0
+
+
+RLRLRLR
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 79] The turn now belongs to University B!
+The dice has casted a 6!
+
+Stats for B:
+KPIs: 68
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 0
+Patents: 2
+Type ThD: 5
+Type BPS: 2
+Type BQN: 3
+Type MJobs: 3
+Type MTV: 1
+Type M$: 0
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 5
+ -> DisciplineFrom: 2
+
+Stats for B:
+KPIs: 68
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 0
+Patents: 2
+Type ThD: 5
+Type BPS: 2
+Type BQN: 0
+Type MJobs: 3
+Type MTV: 1
+Type M$: 1
+
+The action 'Start Spinoff' has being completed.
+
+Stats for B:
+KPIs: 68
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 5
+Type BPS: 2
+Type BQN: 0
+Type MJobs: 2
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 80] The turn now belongs to University C!
+The dice has casted a 3!
+
+Stats for C:
+KPIs: 68
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 1
+Patents: 1
+Type ThD: 8
+Type BPS: 1
+Type BQN: 1
+Type MJobs: 0
+Type MTV: 1
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 81] The turn now belongs to University A!
+The dice has casted a 4!
+
+Stats for A:
+KPIs: 86
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 3
+Type BPS: 4
+Type BQN: 4
+Type MJobs: 1
+Type MTV: 2
+Type M$: 0
+
+
+RLRLRLR
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 3
+ -> DisciplineFrom: 1
+
+Stats for A:
+KPIs: 86
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 3
+Type BPS: 1
+Type BQN: 4
+Type MJobs: 2
+Type MTV: 2
+Type M$: 0
+
+
+RLRLRLR
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 5
+ -> DisciplineFrom: 2
+
+Stats for A:
+KPIs: 86
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 0
+Patents: 0
+Type ThD: 3
+Type BPS: 1
+Type BQN: 1
+Type MJobs: 2
+Type MTV: 2
+Type M$: 1
+
+
+RLRLRLR
+The action 'Start Spinoff' has being completed.
+
+Stats for A:
+KPIs: 96
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 0
+Patents: 1
+Type ThD: 3
+Type BPS: 1
+Type BQN: 1
+Type MJobs: 1
+Type MTV: 1
+Type M$: 0
+
+
+RLRLRLR
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 82] The turn now belongs to University B!
+The dice has casted a 6!
+
+Stats for B:
+KPIs: 68
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 5
+Type BPS: 2
+Type BQN: 0
+Type MJobs: 3
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 83] The turn now belongs to University C!
+The dice has casted a 7!
+
+Stats for C:
+KPIs: 68
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 1
+Patents: 1
+Type ThD: 9
+Type BPS: 1
+Type BQN: 2
+Type MJobs: 0
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 84] The turn now belongs to University A!
+The dice has casted a 6!
+
+Stats for A:
+KPIs: 96
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 0
+Patents: 1
+Type ThD: 4
+Type BPS: 3
+Type BQN: 5
+Type MJobs: 3
+Type MTV: 0
+Type M$: 0
+
+
+RLRLRLR
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 5
+ -> DisciplineFrom: 2
+
+Stats for A:
+KPIs: 96
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 0
+Patents: 1
+Type ThD: 4
+Type BPS: 3
+Type BQN: 2
+Type MJobs: 3
+Type MTV: 0
+Type M$: 1
+
+
+RLRLRLR
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 5
+ -> DisciplineFrom: 1
+
+Stats for A:
+KPIs: 96
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 0
+Patents: 1
+Type ThD: 4
+Type BPS: 0
+Type BQN: 2
+Type MJobs: 3
+Type MTV: 0
+Type M$: 2
+
+
+RLRLRLR
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 85] The turn now belongs to University B!
+The dice has casted a 2!
+
+Stats for B:
+KPIs: 68
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 5
+Type BPS: 2
+Type BQN: 0
+Type MJobs: 4
+Type MTV: 0
+Type M$: 0
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 4
+ -> DisciplineFrom: 3
+
+Stats for B:
+KPIs: 68
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 5
+Type BPS: 2
+Type BQN: 0
+Type MJobs: 1
+Type MTV: 1
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 86] The turn now belongs to University C!
+The dice has casted a 7!
+
+Stats for C:
+KPIs: 68
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 1
+Patents: 1
+Type ThD: 9
+Type BPS: 1
+Type BQN: 2
+Type MJobs: 0
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 87] The turn now belongs to University A!
+The dice has casted a 10!
+
+Stats for A:
+KPIs: 96
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 0
+Patents: 1
+Type ThD: 7
+Type BPS: 2
+Type BQN: 2
+Type MJobs: 3
+Type MTV: 0
+Type M$: 0
+
+
+RLRLRLR
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 88] The turn now belongs to University B!
+The dice has casted a 8!
+
+Stats for B:
+KPIs: 68
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 6
+Type BPS: 2
+Type BQN: 1
+Type MJobs: 1
+Type MTV: 0
+Type M$: 1
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 89] The turn now belongs to University C!
+The dice has casted a 7!
+
+Stats for C:
+KPIs: 68
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 1
+Patents: 1
+Type ThD: 9
+Type BPS: 3
+Type BQN: 4
+Type MJobs: 0
+Type MTV: 0
+Type M$: 0
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 3
+ -> DisciplineFrom: 2
+
+Stats for C:
+KPIs: 68
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 1
+Patents: 1
+Type ThD: 9
+Type BPS: 3
+Type BQN: 1
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 4
+ -> DisciplineFrom: 1
+
+Stats for C:
+KPIs: 68
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 1
+Patents: 1
+Type ThD: 9
+Type BPS: 0
+Type BQN: 1
+Type MJobs: 1
+Type MTV: 1
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 90] The turn now belongs to University A!
+The dice has casted a 9!
+
+Stats for A:
+KPIs: 96
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 0
+Patents: 1
+Type ThD: 7
+Type BPS: 4
+Type BQN: 2
+Type MJobs: 4
+Type MTV: 0
+Type M$: 0
+
+
+RLRLRLR
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 5
+ -> DisciplineFrom: 1
+
+Stats for A:
+KPIs: 96
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 0
+Patents: 1
+Type ThD: 7
+Type BPS: 1
+Type BQN: 2
+Type MJobs: 4
+Type MTV: 0
+Type M$: 1
+
+
+RLRLRLR
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 91] The turn now belongs to University B!
+The dice has casted a 11!
+
+Stats for B:
+KPIs: 68
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 7
+Type BPS: 4
+Type BQN: 1
+Type MJobs: 2
+Type MTV: 0
+Type M$: 0
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 4
+ -> DisciplineFrom: 1
+
+Stats for B:
+KPIs: 68
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 7
+Type BPS: 1
+Type BQN: 1
+Type MJobs: 2
+Type MTV: 1
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 92] The turn now belongs to University C!
+The dice has casted a 6!
+
+Stats for C:
+KPIs: 68
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 1
+Patents: 1
+Type ThD: 10
+Type BPS: 0
+Type BQN: 1
+Type MJobs: 1
+Type MTV: 1
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 93] The turn now belongs to University A!
+The dice has casted a 6!
+
+Stats for A:
+KPIs: 96
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 0
+Patents: 1
+Type ThD: 7
+Type BPS: 1
+Type BQN: 6
+Type MJobs: 6
+Type MTV: 2
+Type M$: 1
+
+
+RLRLRLR
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 5
+ -> DisciplineFrom: 2
+
+Stats for A:
+KPIs: 96
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 0
+Patents: 1
+Type ThD: 7
+Type BPS: 1
+Type BQN: 3
+Type MJobs: 6
+Type MTV: 2
+Type M$: 2
+
+
+RLRLRLR
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 5
+ -> DisciplineFrom: 3
+
+Stats for A:
+KPIs: 96
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 0
+Patents: 1
+Type ThD: 7
+Type BPS: 1
+Type BQN: 3
+Type MJobs: 3
+Type MTV: 2
+Type M$: 3
+
+
+RLRLRLR
+
+RLRLRLR
+Bestway: RLRLRLR, status: 0
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 5
+ -> DisciplineFrom: 2
+
+Stats for A:
+KPIs: 96
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 0
+Patents: 1
+Type ThD: 7
+Type BPS: 1
+Type BQN: 0
+Type MJobs: 3
+Type MTV: 2
+Type M$: 4
+
+
+RLRLRLR
+
+RLRLRLR
+Bestway: RLRLRLR, status: 0
+The action 'Start Spinoff' has being completed.
+
+Stats for A:
+KPIs: 96
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 1
+Patents: 1
+Type ThD: 7
+Type BPS: 1
+Type BQN: 0
+Type MJobs: 2
+Type MTV: 1
+Type M$: 3
+
+
+RLRLRLR
+
+RLRLRLR
+Bestway: RLRLRLR, status: 0
+The action 'Start Spinoff' has being completed.
+
+Stats for A:
+KPIs: 106
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 7
+Type BPS: 1
+Type BQN: 0
+Type MJobs: 1
+Type MTV: 0
+Type M$: 2
+
+
+RLRLRLR
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 94] The turn now belongs to University B!
+The dice has casted a 6!
+
+Stats for B:
+KPIs: 68
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 7
+Type BPS: 1
+Type BQN: 1
+Type MJobs: 5
+Type MTV: 1
+Type M$: 0
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 5
+ -> DisciplineFrom: 3
+
+Stats for B:
+KPIs: 68
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 7
+Type BPS: 1
+Type BQN: 1
+Type MJobs: 2
+Type MTV: 1
+Type M$: 1
+
+The action 'Start Spinoff' has being completed.
+
+Stats for B:
+KPIs: 78
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 2
+Patents: 2
+Type ThD: 7
+Type BPS: 1
+Type BQN: 1
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 95] The turn now belongs to University C!
+The dice has casted a 9!
+
+Stats for C:
+KPIs: 58
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 1
+Patents: 1
+Type ThD: 11
+Type BPS: 0
+Type BQN: 1
+Type MJobs: 1
+Type MTV: 1
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 96] The turn now belongs to University A!
+The dice has casted a 10!
+
+Stats for A:
+KPIs: 106
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 7
+Type BPS: 1
+Type BQN: 2
+Type MJobs: 3
+Type MTV: 0
+Type M$: 2
+
+
+RLRLRLR
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 97] The turn now belongs to University B!
+The dice has casted a 6!
+
+Stats for B:
+KPIs: 78
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 2
+Patents: 2
+Type ThD: 7
+Type BPS: 3
+Type BQN: 2
+Type MJobs: 3
+Type MTV: 0
+Type M$: 1
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 4
+ -> DisciplineFrom: 1
+
+Stats for B:
+KPIs: 78
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 2
+Patents: 2
+Type ThD: 7
+Type BPS: 0
+Type BQN: 2
+Type MJobs: 3
+Type MTV: 1
+Type M$: 1
+
+The action 'Start Spinoff' has being completed.
+
+Stats for B:
+KPIs: 78
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 3
+Patents: 2
+Type ThD: 7
+Type BPS: 0
+Type BQN: 2
+Type MJobs: 2
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 98] The turn now belongs to University C!
+The dice has casted a 10!
+
+Stats for C:
+KPIs: 58
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 1
+Patents: 1
+Type ThD: 11
+Type BPS: 0
+Type BQN: 1
+Type MJobs: 1
+Type MTV: 1
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 99] The turn now belongs to University A!
+The dice has casted a 5!
+
+Stats for A:
+KPIs: 106
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 7
+Type BPS: 1
+Type BQN: 4
+Type MJobs: 4
+Type MTV: 0
+Type M$: 2
+
+
+RLRLRLR
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 5
+ -> DisciplineFrom: 2
+
+Stats for A:
+KPIs: 106
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 7
+Type BPS: 1
+Type BQN: 1
+Type MJobs: 4
+Type MTV: 0
+Type M$: 3
+
+
+RLRLRLR
+
+RLRLRLR
+Bestway: RLRLRLR, status: 0
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 100] The turn now belongs to University B!
+The dice has casted a 6!
+
+Stats for B:
+KPIs: 78
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 3
+Patents: 2
+Type ThD: 7
+Type BPS: 0
+Type BQN: 5
+Type MJobs: 3
+Type MTV: 0
+Type M$: 1
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 4
+ -> DisciplineFrom: 2
+
+Stats for B:
+KPIs: 78
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 3
+Patents: 2
+Type ThD: 7
+Type BPS: 0
+Type BQN: 2
+Type MJobs: 3
+Type MTV: 1
+Type M$: 1
+
+The action 'Start Spinoff' has being completed.
+
+Stats for B:
+KPIs: 78
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 4
+Patents: 2
+Type ThD: 7
+Type BPS: 0
+Type BQN: 2
+Type MJobs: 2
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 101] The turn now belongs to University C!
+The dice has casted a 6!
+
+Stats for C:
+KPIs: 58
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 1
+Patents: 1
+Type ThD: 11
+Type BPS: 1
+Type BQN: 1
+Type MJobs: 1
+Type MTV: 1
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 102] The turn now belongs to University A!
+The dice has casted a 5!
+
+Stats for A:
+KPIs: 106
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 7
+Type BPS: 1
+Type BQN: 5
+Type MJobs: 6
+Type MTV: 0
+Type M$: 3
+
+
+RLRLRLR
+
+RLRLRLR
+Bestway: RLRLRLR, status: 0
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 5
+ -> DisciplineFrom: 2
+
+Stats for A:
+KPIs: 106
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 7
+Type BPS: 1
+Type BQN: 2
+Type MJobs: 6
+Type MTV: 0
+Type M$: 4
+
+
+RLRLRLR
+
+RLRLRLR
+Bestway: RLRLRLR, status: 0
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 5
+ -> DisciplineFrom: 3
+
+Stats for A:
+KPIs: 106
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 7
+Type BPS: 1
+Type BQN: 2
+Type MJobs: 3
+Type MTV: 0
+Type M$: 5
+
+
+RLRLRLR
+
+RLRLRLR
+Bestway: RLRLRLR, status: 0
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 103] The turn now belongs to University B!
+The dice has casted a 4!
+
+Stats for B:
+KPIs: 78
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 4
+Patents: 2
+Type ThD: 7
+Type BPS: 0
+Type BQN: 4
+Type MJobs: 3
+Type MTV: 0
+Type M$: 0
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 4
+ -> DisciplineFrom: 2
+
+Stats for B:
+KPIs: 78
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 4
+Patents: 2
+Type ThD: 7
+Type BPS: 0
+Type BQN: 1
+Type MJobs: 3
+Type MTV: 1
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 104] The turn now belongs to University C!
+The dice has casted a 9!
+
+Stats for C:
+KPIs: 58
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 1
+Patents: 1
+Type ThD: 12
+Type BPS: 2
+Type BQN: 2
+Type MJobs: 1
+Type MTV: 1
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 105] The turn now belongs to University A!
+The dice has casted a 5!
+
+Stats for A:
+KPIs: 106
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 7
+Type BPS: 1
+Type BQN: 4
+Type MJobs: 4
+Type MTV: 0
+Type M$: 5
+
+
+RLRLRLR
+
+RLRLRLR
+Bestway: RLRLRLR, status: 0
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 5
+ -> DisciplineFrom: 2
+
+Stats for A:
+KPIs: 106
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 7
+Type BPS: 1
+Type BQN: 1
+Type MJobs: 4
+Type MTV: 0
+Type M$: 6
+
+
+RLRLRLR
+
+RLRLRLR
+Bestway: RLRLRLR, status: 0
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 5
+ -> DisciplineFrom: 5
+
+Stats for A:
+KPIs: 106
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 7
+Type BPS: 1
+Type BQN: 1
+Type MJobs: 4
+Type MTV: 0
+Type M$: 4
+
+
+RLRLRLR
+
+RLRLRLR
+Bestway: RLRLRLR, status: 0
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 106] The turn now belongs to University B!
+The dice has casted a 9!
+
+Stats for B:
+KPIs: 78
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 4
+Patents: 2
+Type ThD: 7
+Type BPS: 4
+Type BQN: 3
+Type MJobs: 5
+Type MTV: 1
+Type M$: 0
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 5
+ -> DisciplineFrom: 1
+
+Stats for B:
+KPIs: 78
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 4
+Patents: 2
+Type ThD: 7
+Type BPS: 1
+Type BQN: 3
+Type MJobs: 5
+Type MTV: 1
+Type M$: 1
+
+The action 'Start Spinoff' has being completed.
+
+Stats for B:
+KPIs: 88
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 4
+Patents: 3
+Type ThD: 7
+Type BPS: 1
+Type BQN: 3
+Type MJobs: 4
+Type MTV: 0
+Type M$: 0
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 4
+ -> DisciplineFrom: 2
+
+Stats for B:
+KPIs: 88
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 4
+Patents: 3
+Type ThD: 7
+Type BPS: 1
+Type BQN: 0
+Type MJobs: 4
+Type MTV: 1
+Type M$: 0
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 5
+ -> DisciplineFrom: 3
+
+Stats for B:
+KPIs: 88
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 4
+Patents: 3
+Type ThD: 7
+Type BPS: 1
+Type BQN: 0
+Type MJobs: 1
+Type MTV: 1
+Type M$: 1
+
+The action 'Start Spinoff' has being completed.
+
+Stats for B:
+KPIs: 98
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 4
+Patents: 4
+Type ThD: 7
+Type BPS: 1
+Type BQN: 0
+Type MJobs: 0
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 107] The turn now belongs to University C!
+The dice has casted a 5!
+
+Stats for C:
+KPIs: 58
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 1
+Patents: 1
+Type ThD: 13
+Type BPS: 4
+Type BQN: 2
+Type MJobs: 1
+Type MTV: 1
+Type M$: 0
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 5
+ -> DisciplineFrom: 1
+
+Stats for C:
+KPIs: 58
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 1
+Patents: 1
+Type ThD: 13
+Type BPS: 1
+Type BQN: 2
+Type MJobs: 1
+Type MTV: 1
+Type M$: 1
+
+The action 'Start Spinoff' has being completed.
+
+Stats for C:
+KPIs: 58
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 2
+Patents: 1
+Type ThD: 13
+Type BPS: 1
+Type BQN: 2
+Type MJobs: 0
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 108] The turn now belongs to University A!
+The dice has casted a 10!
+
+Stats for A:
+KPIs: 106
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 7
+Type BPS: 1
+Type BQN: 1
+Type MJobs: 5
+Type MTV: 0
+Type M$: 4
+
+
+RLRLRLR
+
+RLRLRLR
+Bestway: RLRLRLR, status: 0
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 5
+ -> DisciplineFrom: 3
+
+Stats for A:
+KPIs: 106
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 7
+Type BPS: 1
+Type BQN: 1
+Type MJobs: 2
+Type MTV: 0
+Type M$: 5
+
+
+RLRLRLR
+
+RLRLRLR
+Bestway: RLRLRLR, status: 0
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 109] The turn now belongs to University B!
+The dice has casted a 5!
+
+Stats for B:
+KPIs: 98
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 4
+Patents: 4
+Type ThD: 7
+Type BPS: 1
+Type BQN: 5
+Type MJobs: 0
+Type MTV: 0
+Type M$: 1
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 3
+ -> DisciplineFrom: 2
+
+Stats for B:
+KPIs: 98
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 4
+Patents: 4
+Type ThD: 7
+Type BPS: 1
+Type BQN: 2
+Type MJobs: 1
+Type MTV: 0
+Type M$: 1
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 110] The turn now belongs to University C!
+The dice has casted a 6!
+
+Stats for C:
+KPIs: 58
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 2
+Patents: 1
+Type ThD: 13
+Type BPS: 2
+Type BQN: 2
+Type MJobs: 0
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 111] The turn now belongs to University A!
+The dice has casted a 8!
+
+Stats for A:
+KPIs: 106
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 7
+Type BPS: 1
+Type BQN: 3
+Type MJobs: 3
+Type MTV: 0
+Type M$: 5
+
+
+RLRLRLR
+
+RLRLRLR
+Bestway: RLRLRLR, status: 0
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 5
+ -> DisciplineFrom: 2
+
+Stats for A:
+KPIs: 106
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 7
+Type BPS: 1
+Type BQN: 0
+Type MJobs: 3
+Type MTV: 0
+Type M$: 6
+
+
+RLRLRLR
+
+RLRLRLR
+Bestway: RLRLRLR, status: 0
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 5
+ -> DisciplineFrom: 5
+
+Stats for A:
+KPIs: 106
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 7
+Type BPS: 1
+Type BQN: 0
+Type MJobs: 3
+Type MTV: 0
+Type M$: 4
+
+
+RLRLRLR
+
+RLRLRLR
+Bestway: RLRLRLR, status: 0
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 112] The turn now belongs to University B!
+The dice has casted a 7!
+
+Stats for B:
+KPIs: 98
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 4
+Patents: 4
+Type ThD: 8
+Type BPS: 1
+Type BQN: 2
+Type MJobs: 2
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 113] The turn now belongs to University C!
+The dice has casted a 9!
+
+Stats for C:
+KPIs: 58
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 2
+Patents: 1
+Type ThD: 14
+Type BPS: 4
+Type BQN: 4
+Type MJobs: 0
+Type MTV: 0
+Type M$: 0
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 3
+ -> DisciplineFrom: 1
+
+Stats for C:
+KPIs: 58
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 2
+Patents: 1
+Type ThD: 14
+Type BPS: 1
+Type BQN: 4
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 4
+ -> DisciplineFrom: 2
+
+Stats for C:
+KPIs: 58
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 2
+Patents: 1
+Type ThD: 14
+Type BPS: 1
+Type BQN: 1
+Type MJobs: 1
+Type MTV: 1
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 114] The turn now belongs to University A!
+The dice has casted a 7!
+
+Stats for A:
+KPIs: 106
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 11
+Type BPS: 5
+Type BQN: 0
+Type MJobs: 4
+Type MTV: 0
+Type M$: 0
+
+
+RLRLRLR
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 5
+ -> DisciplineFrom: 1
+
+Stats for A:
+KPIs: 106
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 11
+Type BPS: 2
+Type BQN: 0
+Type MJobs: 4
+Type MTV: 0
+Type M$: 1
+
+
+RLRLRLR
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 115] The turn now belongs to University B!
+The dice has casted a 4!
+
+Stats for B:
+KPIs: 98
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 4
+Patents: 4
+Type ThD: 8
+Type BPS: 3
+Type BQN: 2
+Type MJobs: 3
+Type MTV: 0
+Type M$: 0
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 4
+ -> DisciplineFrom: 1
+
+Stats for B:
+KPIs: 98
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 4
+Patents: 4
+Type ThD: 8
+Type BPS: 0
+Type BQN: 2
+Type MJobs: 3
+Type MTV: 1
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 116] The turn now belongs to University C!
+The dice has casted a 10!
+
+Stats for C:
+KPIs: 58
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 2
+Patents: 1
+Type ThD: 15
+Type BPS: 1
+Type BQN: 2
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 117] The turn now belongs to University A!
+The dice has casted a 7!
+
+Stats for A:
+KPIs: 106
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 12
+Type BPS: 4
+Type BQN: 2
+Type MJobs: 4
+Type MTV: 0
+Type M$: 0
+
+
+RLRLRLR
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 5
+ -> DisciplineFrom: 1
+
+Stats for A:
+KPIs: 106
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 12
+Type BPS: 1
+Type BQN: 2
+Type MJobs: 4
+Type MTV: 0
+Type M$: 1
+
+
+RLRLRLR
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 118] The turn now belongs to University B!
+The dice has casted a 6!
+
+Stats for B:
+KPIs: 98
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 4
+Patents: 4
+Type ThD: 10
+Type BPS: 0
+Type BQN: 3
+Type MJobs: 4
+Type MTV: 0
+Type M$: 0
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 4
+ -> DisciplineFrom: 2
+
+Stats for B:
+KPIs: 98
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 4
+Patents: 4
+Type ThD: 10
+Type BPS: 0
+Type BQN: 0
+Type MJobs: 4
+Type MTV: 1
+Type M$: 0
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 5
+ -> DisciplineFrom: 3
+
+Stats for B:
+KPIs: 98
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 4
+Patents: 4
+Type ThD: 10
+Type BPS: 0
+Type BQN: 0
+Type MJobs: 1
+Type MTV: 1
+Type M$: 1
+
+The action 'Start Spinoff' has being completed.
+
+Stats for B:
+KPIs: 98
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 5
+Patents: 4
+Type ThD: 10
+Type BPS: 0
+Type BQN: 0
+Type MJobs: 0
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 119] The turn now belongs to University C!
+The dice has casted a 6!
+
+Stats for C:
+KPIs: 58
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 2
+Patents: 1
+Type ThD: 15
+Type BPS: 1
+Type BQN: 2
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 120] The turn now belongs to University A!
+The dice has casted a 9!
+
+Stats for A:
+KPIs: 106
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 12
+Type BPS: 1
+Type BQN: 6
+Type MJobs: 7
+Type MTV: 0
+Type M$: 1
+
+
+RLRLRLR
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 5
+ -> DisciplineFrom: 2
+
+Stats for A:
+KPIs: 106
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 12
+Type BPS: 1
+Type BQN: 3
+Type MJobs: 7
+Type MTV: 0
+Type M$: 2
+
+
+RLRLRLR
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 5
+ -> DisciplineFrom: 3
+
+Stats for A:
+KPIs: 106
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 12
+Type BPS: 1
+Type BQN: 3
+Type MJobs: 4
+Type MTV: 0
+Type M$: 3
+
+
+RLRLRLR
+
+RLRLRLR
+Bestway: RLRLRLR, status: 0
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 5
+ -> DisciplineFrom: 2
+
+Stats for A:
+KPIs: 106
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 12
+Type BPS: 1
+Type BQN: 0
+Type MJobs: 4
+Type MTV: 0
+Type M$: 4
+
+
+RLRLRLR
+
+RLRLRLR
+Bestway: RLRLRLR, status: 0
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 121] The turn now belongs to University B!
+The dice has casted a 3!
+
+Stats for B:
+KPIs: 98
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 5
+Patents: 4
+Type ThD: 10
+Type BPS: 2
+Type BQN: 0
+Type MJobs: 2
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 122] The turn now belongs to University C!
+The dice has casted a 6!
+
+Stats for C:
+KPIs: 58
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 2
+Patents: 1
+Type ThD: 16
+Type BPS: 1
+Type BQN: 2
+Type MJobs: 1
+Type MTV: 1
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 123] The turn now belongs to University A!
+The dice has casted a 3!
+
+Stats for A:
+KPIs: 106
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 12
+Type BPS: 5
+Type BQN: 2
+Type MJobs: 5
+Type MTV: 0
+Type M$: 4
+
+
+RLRLRLR
+
+RLRLRLR
+Bestway: RLRLRLR, status: 0
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 5
+ -> DisciplineFrom: 1
+
+Stats for A:
+KPIs: 106
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 12
+Type BPS: 2
+Type BQN: 2
+Type MJobs: 5
+Type MTV: 0
+Type M$: 5
+
+
+RLRLRLR
+
+RLRLRLR
+Bestway: RLRLRLR, status: 0
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 5
+ -> DisciplineFrom: 3
+
+Stats for A:
+KPIs: 106
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 12
+Type BPS: 2
+Type BQN: 2
+Type MJobs: 2
+Type MTV: 0
+Type M$: 6
+
+
+RLRLRLR
+
+RLRLRLR
+Bestway: RLRLRLR, status: 0
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 5
+ -> DisciplineFrom: 5
+
+Stats for A:
+KPIs: 106
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 12
+Type BPS: 2
+Type BQN: 2
+Type MJobs: 2
+Type MTV: 0
+Type M$: 4
+
+
+RLRLRLR
+
+RLRLRLR
+Bestway: RLRLRLR, status: 0
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 124] The turn now belongs to University B!
+The dice has casted a 11!
+
+Stats for B:
+KPIs: 98
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 5
+Patents: 4
+Type ThD: 10
+Type BPS: 2
+Type BQN: 0
+Type MJobs: 3
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 125] The turn now belongs to University C!
+The dice has casted a 2!
+
+Stats for C:
+KPIs: 58
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 2
+Patents: 1
+Type ThD: 16
+Type BPS: 1
+Type BQN: 2
+Type MJobs: 1
+Type MTV: 2
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 126] The turn now belongs to University A!
+The dice has casted a 7!
+
+Stats for A:
+KPIs: 106
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 19
+Type BPS: 4
+Type BQN: 2
+Type MJobs: 2
+Type MTV: 0
+Type M$: 0
+
+
+RLRLRLR
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 5
+ -> DisciplineFrom: 1
+
+Stats for A:
+KPIs: 106
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 19
+Type BPS: 1
+Type BQN: 2
+Type MJobs: 2
+Type MTV: 0
+Type M$: 1
+
+
+RLRLRLR
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 127] The turn now belongs to University B!
+The dice has casted a 6!
+
+Stats for B:
+KPIs: 98
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 5
+Patents: 4
+Type ThD: 10
+Type BPS: 2
+Type BQN: 0
+Type MJobs: 4
+Type MTV: 0
+Type M$: 0
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 4
+ -> DisciplineFrom: 3
+
+Stats for B:
+KPIs: 98
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 5
+Patents: 4
+Type ThD: 10
+Type BPS: 2
+Type BQN: 0
+Type MJobs: 1
+Type MTV: 1
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 128] The turn now belongs to University C!
+The dice has casted a 10!
+
+Stats for C:
+KPIs: 58
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 2
+Patents: 1
+Type ThD: 18
+Type BPS: 1
+Type BQN: 2
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 129] The turn now belongs to University A!
+The dice has casted a 6!
+
+Stats for A:
+KPIs: 106
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 19
+Type BPS: 1
+Type BQN: 6
+Type MJobs: 4
+Type MTV: 0
+Type M$: 1
+
+
+RLRLRLR
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 5
+ -> DisciplineFrom: 2
+
+Stats for A:
+KPIs: 106
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 19
+Type BPS: 1
+Type BQN: 3
+Type MJobs: 4
+Type MTV: 0
+Type M$: 2
+
+
+RLRLRLR
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 5
+ -> DisciplineFrom: 2
+
+Stats for A:
+KPIs: 106
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 19
+Type BPS: 1
+Type BQN: 0
+Type MJobs: 4
+Type MTV: 0
+Type M$: 3
+
+
+RLRLRLR
+
+RLRLRLR
+Bestway: RLRLRLR, status: 0
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 130] The turn now belongs to University B!
+The dice has casted a 11!
+
+Stats for B:
+KPIs: 98
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 5
+Patents: 4
+Type ThD: 10
+Type BPS: 2
+Type BQN: 1
+Type MJobs: 2
+Type MTV: 1
+Type M$: 1
+
+The action 'Start Spinoff' has being completed.
+
+Stats for B:
+KPIs: 98
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 6
+Patents: 4
+Type ThD: 10
+Type BPS: 2
+Type BQN: 1
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 131] The turn now belongs to University C!
+The dice has casted a 5!
+
+Stats for C:
+KPIs: 58
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 2
+Patents: 1
+Type ThD: 18
+Type BPS: 2
+Type BQN: 2
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 132] The turn now belongs to University A!
+The dice has casted a 4!
+
+Stats for A:
+KPIs: 106
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 19
+Type BPS: 1
+Type BQN: 2
+Type MJobs: 4
+Type MTV: 2
+Type M$: 3
+
+
+RLRLRLR
+
+RLRLRLR
+Bestway: RLRLRLR, status: 0
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 133] The turn now belongs to University B!
+The dice has casted a 7!
+
+Stats for B:
+KPIs: 98
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 6
+Patents: 4
+Type ThD: 10
+Type BPS: 2
+Type BQN: 3
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 4
+ -> DisciplineFrom: 2
+
+Stats for B:
+KPIs: 98
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 6
+Patents: 4
+Type ThD: 10
+Type BPS: 2
+Type BQN: 0
+Type MJobs: 1
+Type MTV: 1
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 134] The turn now belongs to University C!
+The dice has casted a 9!
+
+Stats for C:
+KPIs: 58
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 2
+Patents: 1
+Type ThD: 19
+Type BPS: 2
+Type BQN: 3
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 4
+ -> DisciplineFrom: 2
+
+Stats for C:
+KPIs: 58
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 2
+Patents: 1
+Type ThD: 19
+Type BPS: 2
+Type BQN: 0
+Type MJobs: 1
+Type MTV: 1
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 135] The turn now belongs to University A!
+The dice has casted a 5!
+
+Stats for A:
+KPIs: 106
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 24
+Type BPS: 3
+Type BQN: 2
+Type MJobs: 5
+Type MTV: 0
+Type M$: 0
+
+
+RLRLRLR
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 5
+ -> DisciplineFrom: 1
+
+Stats for A:
+KPIs: 106
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 24
+Type BPS: 0
+Type BQN: 2
+Type MJobs: 5
+Type MTV: 0
+Type M$: 1
+
+
+RLRLRLR
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 5
+ -> DisciplineFrom: 3
+
+Stats for A:
+KPIs: 106
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 24
+Type BPS: 0
+Type BQN: 2
+Type MJobs: 2
+Type MTV: 0
+Type M$: 2
+
+
+RLRLRLR
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 136] The turn now belongs to University B!
+The dice has casted a 8!
+
+Stats for B:
+KPIs: 98
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 6
+Patents: 4
+Type ThD: 10
+Type BPS: 4
+Type BQN: 2
+Type MJobs: 2
+Type MTV: 1
+Type M$: 0
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 5
+ -> DisciplineFrom: 1
+
+Stats for B:
+KPIs: 98
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 6
+Patents: 4
+Type ThD: 10
+Type BPS: 1
+Type BQN: 2
+Type MJobs: 2
+Type MTV: 1
+Type M$: 1
+
+The action 'Start Spinoff' has being completed.
+
+Stats for B:
+KPIs: 108
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 6
+Patents: 5
+Type ThD: 10
+Type BPS: 1
+Type BQN: 2
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 137] The turn now belongs to University C!
+The dice has casted a 9!
+
+Stats for C:
+KPIs: 58
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 2
+Patents: 1
+Type ThD: 20
+Type BPS: 5
+Type BQN: 2
+Type MJobs: 1
+Type MTV: 1
+Type M$: 0
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 3
+ -> DisciplineFrom: 1
+
+Stats for C:
+KPIs: 58
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 2
+Patents: 1
+Type ThD: 20
+Type BPS: 2
+Type BQN: 2
+Type MJobs: 2
+Type MTV: 1
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 138] The turn now belongs to University A!
+The dice has casted a 10!
+
+Stats for A:
+KPIs: 106
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 24
+Type BPS: 0
+Type BQN: 2
+Type MJobs: 3
+Type MTV: 0
+Type M$: 2
+
+
+RLRLRLR
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 139] The turn now belongs to University B!
+The dice has casted a 9!
+
+Stats for B:
+KPIs: 108
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 6
+Patents: 5
+Type ThD: 10
+Type BPS: 5
+Type BQN: 3
+Type MJobs: 3
+Type MTV: 0
+Type M$: 1
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 4
+ -> DisciplineFrom: 1
+
+Stats for B:
+KPIs: 108
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 6
+Patents: 5
+Type ThD: 10
+Type BPS: 2
+Type BQN: 3
+Type MJobs: 3
+Type MTV: 1
+Type M$: 1
+
+The action 'Start Spinoff' has being completed.
+
+Stats for B:
+KPIs: 108
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 7
+Patents: 5
+Type ThD: 10
+Type BPS: 2
+Type BQN: 3
+Type MJobs: 2
+Type MTV: 0
+Type M$: 0
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 4
+ -> DisciplineFrom: 2
+
+Stats for B:
+KPIs: 108
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 7
+Patents: 5
+Type ThD: 10
+Type BPS: 2
+Type BQN: 0
+Type MJobs: 2
+Type MTV: 1
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 140] The turn now belongs to University C!
+The dice has casted a 2!
+
+Stats for C:
+KPIs: 58
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 2
+Patents: 1
+Type ThD: 21
+Type BPS: 2
+Type BQN: 2
+Type MJobs: 2
+Type MTV: 1
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 141] The turn now belongs to University A!
+The dice has casted a 8!
+
+Stats for A:
+KPIs: 106
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 24
+Type BPS: 0
+Type BQN: 2
+Type MJobs: 4
+Type MTV: 0
+Type M$: 3
+
+
+RLRLRLR
+
+RLRLRLR
+Bestway: RLRLRLR, status: 0
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 142] The turn now belongs to University B!
+The dice has casted a 11!
+
+Stats for B:
+KPIs: 108
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 7
+Patents: 5
+Type ThD: 10
+Type BPS: 2
+Type BQN: 0
+Type MJobs: 2
+Type MTV: 1
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 143] The turn now belongs to University C!
+The dice has casted a 4!
+
+Stats for C:
+KPIs: 58
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 2
+Patents: 1
+Type ThD: 21
+Type BPS: 4
+Type BQN: 5
+Type MJobs: 2
+Type MTV: 1
+Type M$: 0
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 5
+ -> DisciplineFrom: 2
+
+Stats for C:
+KPIs: 58
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 2
+Patents: 1
+Type ThD: 21
+Type BPS: 4
+Type BQN: 2
+Type MJobs: 2
+Type MTV: 1
+Type M$: 1
+
+The action 'Start Spinoff' has being completed.
+
+Stats for C:
+KPIs: 68
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 2
+Patents: 2
+Type ThD: 21
+Type BPS: 4
+Type BQN: 2
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 4
+ -> DisciplineFrom: 1
+
+Stats for C:
+KPIs: 68
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 2
+Patents: 2
+Type ThD: 21
+Type BPS: 1
+Type BQN: 2
+Type MJobs: 1
+Type MTV: 1
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 144] The turn now belongs to University A!
+The dice has casted a 7!
+
+Stats for A:
+KPIs: 106
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 29
+Type BPS: 2
+Type BQN: 4
+Type MJobs: 4
+Type MTV: 0
+Type M$: 0
+
+
+RLRLRLR
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 5
+ -> DisciplineFrom: 2
+
+Stats for A:
+KPIs: 106
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 29
+Type BPS: 2
+Type BQN: 1
+Type MJobs: 4
+Type MTV: 0
+Type M$: 1
+
+
+RLRLRLR
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 145] The turn now belongs to University B!
+The dice has casted a 6!
+
+Stats for B:
+KPIs: 108
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 7
+Patents: 5
+Type ThD: 11
+Type BPS: 2
+Type BQN: 0
+Type MJobs: 3
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 146] The turn now belongs to University C!
+The dice has casted a 6!
+
+Stats for C:
+KPIs: 68
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 2
+Patents: 2
+Type ThD: 22
+Type BPS: 1
+Type BQN: 2
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 147] The turn now belongs to University A!
+The dice has casted a 3!
+
+Stats for A:
+KPIs: 106
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 29
+Type BPS: 4
+Type BQN: 5
+Type MJobs: 6
+Type MTV: 0
+Type M$: 1
+
+
+RLRLRLR
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 5
+ -> DisciplineFrom: 2
+
+Stats for A:
+KPIs: 106
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 29
+Type BPS: 4
+Type BQN: 2
+Type MJobs: 6
+Type MTV: 0
+Type M$: 2
+
+
+RLRLRLR
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 5
+ -> DisciplineFrom: 1
+
+Stats for A:
+KPIs: 106
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 29
+Type BPS: 1
+Type BQN: 2
+Type MJobs: 6
+Type MTV: 0
+Type M$: 3
+
+
+RLRLRLR
+
+RLRLRLR
+Bestway: RLRLRLR, status: 0
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 5
+ -> DisciplineFrom: 3
+
+Stats for A:
+KPIs: 106
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 29
+Type BPS: 1
+Type BQN: 2
+Type MJobs: 3
+Type MTV: 0
+Type M$: 4
+
+
+RLRLRLR
+
+RLRLRLR
+Bestway: RLRLRLR, status: 0
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 148] The turn now belongs to University B!
+The dice has casted a 7!
+
+Stats for B:
+KPIs: 108
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 7
+Patents: 5
+Type ThD: 11
+Type BPS: 2
+Type BQN: 0
+Type MJobs: 4
+Type MTV: 0
+Type M$: 0
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 4
+ -> DisciplineFrom: 3
+
+Stats for B:
+KPIs: 108
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 7
+Patents: 5
+Type ThD: 11
+Type BPS: 2
+Type BQN: 0
+Type MJobs: 1
+Type MTV: 1
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 149] The turn now belongs to University C!
+The dice has casted a 6!
+
+Stats for C:
+KPIs: 68
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 2
+Patents: 2
+Type ThD: 23
+Type BPS: 1
+Type BQN: 2
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 150] The turn now belongs to University A!
+The dice has casted a 10!
+
+Stats for A:
+KPIs: 106
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 33
+Type BPS: 3
+Type BQN: 4
+Type MJobs: 4
+Type MTV: 0
+Type M$: 0
+
+
+RLRLRLR
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 5
+ -> DisciplineFrom: 2
+
+Stats for A:
+KPIs: 106
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 33
+Type BPS: 3
+Type BQN: 1
+Type MJobs: 4
+Type MTV: 0
+Type M$: 1
+
+
+RLRLRLR
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 5
+ -> DisciplineFrom: 1
+
+Stats for A:
+KPIs: 106
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 33
+Type BPS: 0
+Type BQN: 1
+Type MJobs: 4
+Type MTV: 0
+Type M$: 2
+
+
+RLRLRLR
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 151] The turn now belongs to University B!
+The dice has casted a 10!
+
+Stats for B:
+KPIs: 108
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 7
+Patents: 5
+Type ThD: 11
+Type BPS: 2
+Type BQN: 2
+Type MJobs: 2
+Type MTV: 1
+Type M$: 2
+
+The action 'Start Spinoff' has being completed.
+
+Stats for B:
+KPIs: 118
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 7
+Patents: 6
+Type ThD: 11
+Type BPS: 2
+Type BQN: 2
+Type MJobs: 1
+Type MTV: 0
+Type M$: 1
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 152] The turn now belongs to University C!
+The dice has casted a 8!
+
+Stats for C:
+KPIs: 68
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 2
+Patents: 2
+Type ThD: 23
+Type BPS: 3
+Type BQN: 4
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 4
+ -> DisciplineFrom: 2
+
+Stats for C:
+KPIs: 68
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 2
+Patents: 2
+Type ThD: 23
+Type BPS: 3
+Type BQN: 1
+Type MJobs: 1
+Type MTV: 1
+Type M$: 0
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 5
+ -> DisciplineFrom: 1
+
+Stats for C:
+KPIs: 68
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 2
+Patents: 2
+Type ThD: 23
+Type BPS: 0
+Type BQN: 1
+Type MJobs: 1
+Type MTV: 1
+Type M$: 1
+
+The action 'Start Spinoff' has being completed.
+
+Stats for C:
+KPIs: 78
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 2
+Patents: 3
+Type ThD: 23
+Type BPS: 0
+Type BQN: 1
+Type MJobs: 0
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 153] The turn now belongs to University A!
+The dice has casted a 5!
+
+Stats for A:
+KPIs: 106
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 33
+Type BPS: 0
+Type BQN: 1
+Type MJobs: 4
+Type MTV: 0
+Type M$: 2
+
+
+RLRLRLR
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 154] The turn now belongs to University B!
+The dice has casted a 5!
+
+Stats for B:
+KPIs: 118
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 7
+Patents: 6
+Type ThD: 11
+Type BPS: 2
+Type BQN: 6
+Type MJobs: 1
+Type MTV: 0
+Type M$: 1
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 4
+ -> DisciplineFrom: 2
+
+Stats for B:
+KPIs: 118
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 7
+Patents: 6
+Type ThD: 11
+Type BPS: 2
+Type BQN: 3
+Type MJobs: 1
+Type MTV: 1
+Type M$: 1
+
+The action 'Start Spinoff' has being completed.
+
+Stats for B:
+KPIs: 128
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 7
+Patents: 7
+Type ThD: 11
+Type BPS: 2
+Type BQN: 3
+Type MJobs: 0
+Type MTV: 0
+Type M$: 0
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 3
+ -> DisciplineFrom: 2
+
+Stats for B:
+KPIs: 128
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 7
+Patents: 7
+Type ThD: 11
+Type BPS: 2
+Type BQN: 0
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 155] The turn now belongs to University C!
+The dice has casted a 6!
+
+Stats for C:
+KPIs: 78
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 2
+Patents: 3
+Type ThD: 23
+Type BPS: 2
+Type BQN: 1
+Type MJobs: 0
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 156] The turn now belongs to University A!
+The dice has casted a 10!
+
+Stats for A:
+KPIs: 106
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 33
+Type BPS: 0
+Type BQN: 3
+Type MJobs: 5
+Type MTV: 0
+Type M$: 2
+
+
+RLRLRLR
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 5
+ -> DisciplineFrom: 2
+
+Stats for A:
+KPIs: 106
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 33
+Type BPS: 0
+Type BQN: 0
+Type MJobs: 5
+Type MTV: 0
+Type M$: 3
+
+
+RLRLRLR
+
+RLRLRLR
+Bestway: RLRLRLR, status: 0
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 5
+ -> DisciplineFrom: 3
+
+Stats for A:
+KPIs: 106
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 33
+Type BPS: 0
+Type BQN: 0
+Type MJobs: 2
+Type MTV: 0
+Type M$: 4
+
+
+RLRLRLR
+
+RLRLRLR
+Bestway: RLRLRLR, status: 0
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 157] The turn now belongs to University B!
+The dice has casted a 7!
+
+Stats for B:
+KPIs: 128
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 7
+Patents: 7
+Type ThD: 12
+Type BPS: 2
+Type BQN: 1
+Type MJobs: 2
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 158] The turn now belongs to University C!
+The dice has casted a 5!
+
+Stats for C:
+KPIs: 78
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 2
+Patents: 3
+Type ThD: 23
+Type BPS: 3
+Type BQN: 1
+Type MJobs: 0
+Type MTV: 0
+Type M$: 0
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 3
+ -> DisciplineFrom: 1
+
+Stats for C:
+KPIs: 78
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 2
+Patents: 3
+Type ThD: 23
+Type BPS: 0
+Type BQN: 1
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 159] The turn now belongs to University A!
+The dice has casted a 9!
+
+Stats for A:
+KPIs: 106
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 37
+Type BPS: 2
+Type BQN: 0
+Type MJobs: 3
+Type MTV: 0
+Type M$: 0
+
+
+RLRLRLR
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 160] The turn now belongs to University B!
+The dice has casted a 7!
+
+Stats for B:
+KPIs: 128
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 7
+Patents: 7
+Type ThD: 12
+Type BPS: 4
+Type BQN: 3
+Type MJobs: 3
+Type MTV: 0
+Type M$: 0
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 4
+ -> DisciplineFrom: 1
+
+Stats for B:
+KPIs: 128
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 7
+Patents: 7
+Type ThD: 12
+Type BPS: 1
+Type BQN: 3
+Type MJobs: 3
+Type MTV: 1
+Type M$: 0
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 5
+ -> DisciplineFrom: 2
+
+Stats for B:
+KPIs: 128
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 7
+Patents: 7
+Type ThD: 12
+Type BPS: 1
+Type BQN: 0
+Type MJobs: 3
+Type MTV: 1
+Type M$: 1
+
+The action 'Start Spinoff' has being completed.
+
+Stats for B:
+KPIs: 138
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 7
+Patents: 8
+Type ThD: 12
+Type BPS: 1
+Type BQN: 0
+Type MJobs: 2
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 161] The turn now belongs to University C!
+The dice has casted a 8!
+
+Stats for C:
+KPIs: 78
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 2
+Patents: 3
+Type ThD: 24
+Type BPS: 2
+Type BQN: 3
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 4
+ -> DisciplineFrom: 2
+
+Stats for C:
+KPIs: 78
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 2
+Patents: 3
+Type ThD: 24
+Type BPS: 2
+Type BQN: 0
+Type MJobs: 1
+Type MTV: 1
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 162] The turn now belongs to University A!
+The dice has casted a 7!
+
+Stats for A:
+KPIs: 106
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 37
+Type BPS: 6
+Type BQN: 0
+Type MJobs: 3
+Type MTV: 0
+Type M$: 0
+
+
+RLRLRLR
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 5
+ -> DisciplineFrom: 1
+
+Stats for A:
+KPIs: 106
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 37
+Type BPS: 3
+Type BQN: 0
+Type MJobs: 3
+Type MTV: 0
+Type M$: 1
+
+
+RLRLRLR
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 5
+ -> DisciplineFrom: 1
+
+Stats for A:
+KPIs: 106
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 37
+Type BPS: 0
+Type BQN: 0
+Type MJobs: 3
+Type MTV: 0
+Type M$: 2
+
+
+RLRLRLR
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 163] The turn now belongs to University B!
+The dice has casted a 2!
+
+Stats for B:
+KPIs: 138
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 7
+Patents: 8
+Type ThD: 12
+Type BPS: 1
+Type BQN: 0
+Type MJobs: 2
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 164] The turn now belongs to University C!
+The dice has casted a 7!
+
+Stats for C:
+KPIs: 78
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 2
+Patents: 3
+Type ThD: 25
+Type BPS: 2
+Type BQN: 0
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 165] The turn now belongs to University A!
+The dice has casted a 5!
+
+Stats for A:
+KPIs: 106
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 40
+Type BPS: 2
+Type BQN: 0
+Type MJobs: 3
+Type MTV: 0
+Type M$: 0
+
+
+RLRLRLR
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 166] The turn now belongs to University B!
+The dice has casted a 5!
+
+Stats for B:
+KPIs: 138
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 7
+Patents: 8
+Type ThD: 12
+Type BPS: 1
+Type BQN: 4
+Type MJobs: 2
+Type MTV: 0
+Type M$: 0
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 4
+ -> DisciplineFrom: 2
+
+Stats for B:
+KPIs: 138
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 7
+Patents: 8
+Type ThD: 12
+Type BPS: 1
+Type BQN: 1
+Type MJobs: 2
+Type MTV: 1
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 167] The turn now belongs to University C!
+The dice has casted a 7!
+
+Stats for C:
+KPIs: 78
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 2
+Patents: 3
+Type ThD: 25
+Type BPS: 4
+Type BQN: 0
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 4
+ -> DisciplineFrom: 1
+
+Stats for C:
+KPIs: 78
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 2
+Patents: 3
+Type ThD: 25
+Type BPS: 1
+Type BQN: 0
+Type MJobs: 1
+Type MTV: 1
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 168] The turn now belongs to University A!
+The dice has casted a 10!
+
+Stats for A:
+KPIs: 106
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 40
+Type BPS: 4
+Type BQN: 0
+Type MJobs: 3
+Type MTV: 0
+Type M$: 0
+
+
+RLRLRLR
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 5
+ -> DisciplineFrom: 1
+
+Stats for A:
+KPIs: 106
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 40
+Type BPS: 1
+Type BQN: 0
+Type MJobs: 3
+Type MTV: 0
+Type M$: 1
+
+
+RLRLRLR
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 169] The turn now belongs to University B!
+The dice has casted a 8!
+
+Stats for B:
+KPIs: 138
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 7
+Patents: 8
+Type ThD: 13
+Type BPS: 1
+Type BQN: 2
+Type MJobs: 2
+Type MTV: 0
+Type M$: 1
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 170] The turn now belongs to University C!
+The dice has casted a 9!
+
+Stats for C:
+KPIs: 78
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 2
+Patents: 3
+Type ThD: 26
+Type BPS: 3
+Type BQN: 2
+Type MJobs: 1
+Type MTV: 1
+Type M$: 0
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 5
+ -> DisciplineFrom: 1
+
+Stats for C:
+KPIs: 78
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 2
+Patents: 3
+Type ThD: 26
+Type BPS: 0
+Type BQN: 2
+Type MJobs: 1
+Type MTV: 1
+Type M$: 1
+
+The action 'Start Spinoff' has being completed.
+
+Stats for C:
+KPIs: 88
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 2
+Patents: 4
+Type ThD: 26
+Type BPS: 0
+Type BQN: 2
+Type MJobs: 0
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 171] The turn now belongs to University A!
+The dice has casted a 9!
+
+Stats for A:
+KPIs: 106
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 40
+Type BPS: 1
+Type BQN: 0
+Type MJobs: 5
+Type MTV: 0
+Type M$: 1
+
+
+RLRLRLR
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 5
+ -> DisciplineFrom: 3
+
+Stats for A:
+KPIs: 106
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 40
+Type BPS: 1
+Type BQN: 0
+Type MJobs: 2
+Type MTV: 0
+Type M$: 2
+
+
+RLRLRLR
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 172] The turn now belongs to University B!
+The dice has casted a 7!
+
+Stats for B:
+KPIs: 138
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 7
+Patents: 8
+Type ThD: 14
+Type BPS: 5
+Type BQN: 2
+Type MJobs: 4
+Type MTV: 0
+Type M$: 0
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 4
+ -> DisciplineFrom: 1
+
+Stats for B:
+KPIs: 138
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 7
+Patents: 8
+Type ThD: 14
+Type BPS: 2
+Type BQN: 2
+Type MJobs: 4
+Type MTV: 1
+Type M$: 0
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 5
+ -> DisciplineFrom: 3
+
+Stats for B:
+KPIs: 138
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 7
+Patents: 8
+Type ThD: 14
+Type BPS: 2
+Type BQN: 2
+Type MJobs: 1
+Type MTV: 1
+Type M$: 1
+
+The action 'Start Spinoff' has being completed.
+
+Stats for B:
+KPIs: 138
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 8
+Patents: 8
+Type ThD: 14
+Type BPS: 2
+Type BQN: 2
+Type MJobs: 0
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 173] The turn now belongs to University C!
+The dice has casted a 4!
+
+Stats for C:
+KPIs: 88
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 2
+Patents: 4
+Type ThD: 27
+Type BPS: 0
+Type BQN: 3
+Type MJobs: 0
+Type MTV: 0
+Type M$: 0
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 3
+ -> DisciplineFrom: 2
+
+Stats for C:
+KPIs: 88
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 2
+Patents: 4
+Type ThD: 27
+Type BPS: 0
+Type BQN: 0
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 174] The turn now belongs to University A!
+The dice has casted a 5!
+
+Stats for A:
+KPIs: 106
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 42
+Type BPS: 3
+Type BQN: 2
+Type MJobs: 2
+Type MTV: 0
+Type M$: 0
+
+
+RLRLRLR
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 5
+ -> DisciplineFrom: 1
+
+Stats for A:
+KPIs: 106
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 42
+Type BPS: 0
+Type BQN: 2
+Type MJobs: 2
+Type MTV: 0
+Type M$: 1
+
+
+RLRLRLR
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 175] The turn now belongs to University B!
+The dice has casted a 7!
+
+Stats for B:
+KPIs: 138
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 8
+Patents: 8
+Type ThD: 14
+Type BPS: 2
+Type BQN: 4
+Type MJobs: 0
+Type MTV: 0
+Type M$: 0
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 3
+ -> DisciplineFrom: 2
+
+Stats for B:
+KPIs: 138
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 8
+Patents: 8
+Type ThD: 14
+Type BPS: 2
+Type BQN: 1
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 176] The turn now belongs to University C!
+The dice has casted a 10!
+
+Stats for C:
+KPIs: 88
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 2
+Patents: 4
+Type ThD: 27
+Type BPS: 1
+Type BQN: 0
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 177] The turn now belongs to University A!
+The dice has casted a 9!
+
+Stats for A:
+KPIs: 106
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 43
+Type BPS: 2
+Type BQN: 2
+Type MJobs: 3
+Type MTV: 0
+Type M$: 0
+
+
+RLRLRLR
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 178] The turn now belongs to University B!
+The dice has casted a 7!
+
+Stats for B:
+KPIs: 138
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 8
+Patents: 8
+Type ThD: 15
+Type BPS: 4
+Type BQN: 2
+Type MJobs: 2
+Type MTV: 0
+Type M$: 0
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 4
+ -> DisciplineFrom: 1
+
+Stats for B:
+KPIs: 138
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 8
+Patents: 8
+Type ThD: 15
+Type BPS: 1
+Type BQN: 2
+Type MJobs: 2
+Type MTV: 1
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 179] The turn now belongs to University C!
+The dice has casted a 5!
+
+Stats for C:
+KPIs: 88
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 2
+Patents: 4
+Type ThD: 28
+Type BPS: 2
+Type BQN: 0
+Type MJobs: 1
+Type MTV: 0
+Type M$: 0
+
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 180] The turn now belongs to University A!
+The dice has casted a 9!
+
+Stats for A:
+KPIs: 106
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 43
+Type BPS: 4
+Type BQN: 2
+Type MJobs: 4
+Type MTV: 0
+Type M$: 0
+
+
+RLRLRLR
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 5
+ -> DisciplineFrom: 1
+
+Stats for A:
+KPIs: 106
+ARCs: 8
+Campuses: 6
+GO8s: 0
+Publications: 1
+Patents: 2
+Type ThD: 43
+Type BPS: 1
+Type BQN: 2
+Type MJobs: 4
+Type MTV: 0
+Type M$: 1
+
+
+RLRLRLR
+You have passed onto the next person.
+
+--------------------------------------------------
+
+[Turn 181] The turn now belongs to University B!
+The dice has casted a 2!
+
+Stats for B:
+KPIs: 138
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 8
+Patents: 8
+Type ThD: 15
+Type BPS: 3
+Type BQN: 4
+Type MJobs: 3
+Type MTV: 1
+Type M$: 0
+
+The action 'Retrain Student' has being completed.
+ -> DisciplineTo: 5
+ -> DisciplineFrom: 2
+
+Stats for B:
+KPIs: 138
+ARCs: 4
+Campuses: 4
+GO8s: 0
+Publications: 
